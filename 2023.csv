@@ -1,0 +1,712 @@
+,Faculty,Program,SLC,Eng,E1,Math,M1,Physics,P1,Chemistry,C1,Plus Two,Eng1,Math2,Phy/Acc,Che/Eco,Mixed,GPA,GPAM,GPAA,School From,Parent Education
+1,Engineering,Computer Eng,3.8,A,3.6,C+,2.4,B+,3.2,A,3.6,3.46,45,44,38,44,50,3.23,80,B+,Private,SLC
+2,Engineering,Computer Eng,3.15,B+,3.2,B+,3.2,B,2.8,A+,4,3.31,40,35,38,39,42,2.27,65,C+,Private,Master
+3,Engineering,Computer Eng,3.65,B+,3.2,B+,3.2,B+,3.2,B,2.8,2.94,40,36,36,41,40,2.57,70,B-,Govt,Bachelor
+4,Engineering,Computer Eng,3.85,A,3.6,A+,4,A,3.6,A,3.6,3.71,46,41,39,41,41,3.57,85,A-,Govt,Plus Two
+5,Engineering,Computer Eng,3.5,A,3.6,B,2.8,B,2.8,C+,2.4,2.94,48,48,45,47,37,3.76,90,A,Govt,Plus Two
+6,Engineering,Computer Eng,3.7,B+,3.2,A,3.6,B+,3.2,A+,4,3.46,48,46,45,46,38,3.47,85,A-,Private,Master
+7,Engineering,Computer Eng,3.8,B+,3.2,A+,4,C,2,C,2,2.94,28,30,35,39,37,0,0,F,Govt,SLC
+8,Engineering,Computer Eng,3.55,B,2.8,B+,3.2,C+,2.4,A,3.6,3.15,40,39,37,43,42,0,0,F,Private,SLC
+9,Engineering,Computer Eng,3.55,B+,3.2,B+,3.2,B,2.8,C+,2.4,3.15,31,35,36,39,37,0,0,F,Private,SLC
+10,Engineering,Computer Eng,3.5,B+,3.2,A,3.6,B+,3.2,B+,3.2,3.36,45,36,37,42,46,0,0,F,Private,Plus Two
+11,Engineering,Computer Eng,3.55,B,2.8,B+,3.2,D+,1.6,B,2.8,2.79,47,43,45,46,43,2.7,70,B-,Govt,Plus Two
+12,Engineering,Computer Eng,3.65,A,3.6,A,3.6,A,3.6,B+,3.2,3.43,0,0,0,0,0,0,0,F,Govt,Plus Two
+13,Engineering,Computer Eng,3.6,B,2.8,A,3.6,A,3.6,A,3.6,3.36,30,36,35,41,39,2,60,C,Govt,Plus Two
+14,Engineering,Computer Eng,3.45,B+,3.2,B+,3.2,B,2.8,C+,2.4,2.42,35,37,36,41,40,0,0,F,Govt,Bachelor
+15,Engineering,Computer Eng,3.06,B+,3.2,B+,3.2,B,2.8,A+,4,3.24,37,36,36,41,36,0,0,F,Private,Plus Two
+16,Engineering,Computer Eng,3.7,A,3.6,C+,2.4,B,2.8,A+,4,3.29,45,43,41,41,41,0,0,F,Govt,SLC
+17,Engineering,Computer Eng,2.82,B,2.8,B,2.8,B,2.8,C+,2.4,2.82,37,35,36,40,38,0,0,F,Govt,Bachelor
+18,Engineering,Computer Eng,3.6,C+,2.4,A+,4,A,3.6,A+,4,3.75,35,36,40,42,43,0,0,F,Private,Master
+19,Engineering,Computer Eng,3.9,B+,3.2,A+,4,A+,4,A+,4,3.71,44,38,45,42,39,3.48,85,A-,Govt,Bachelor
+20,Engineering,Computer Eng,3.6,B,2.8,B,2.8,C+,2.4,B,2.8,2.94,40,36,37,44,39,0,0,F,Govt,Plus Two
+21,Engineering,Computer Eng,3.65,B+,3.2,B,2.8,B,2.8,B,2.8,3.13,45,36,41,41,40,2,60,C,Govt,SLC
+22,Engineering,Computer Eng,3.45,B,2.8,B+,3.2,B+,3.2,B+,3.2,3.29,37,36,36,40,39,0,0,F,Private,Bachelor
+23,Engineering,Computer Eng,3.5,B+,3.2,B+,3.2,C+,2.4,B,2.8,3.14,35,37,36,43,41,2.89,75,B,Private,Plus Two
+24,Engineering,Computer Eng,3.65,B+,3.2,B+,3.2,B+,3.2,B,2.8,2.79,23,35,35,39,31,0,0,F,Private,Bachelor
+25,Engineering,Computer Eng,3.65,B,2.8,C,2,C+,2.4,B,2.8,2.7,30,35,36,41,35,0,0,F,Govt,Plus Two
+26,Engineering,Computer Eng,3.6,B+,3.2,C,2,B,2.8,B,2.8,3.36,35,49,43,45,42,3.58,85,A-,Private,Plus Two
+27,Engineering,Computer Eng,3.65,B,2.8,C+,2.4,B,2.8,B,2.8,2.87,42,39,42,42,41,2,60,C,Private,SLC
+28,Engineering,Computer Eng,3.85,A,3.6,A+,4,A+,4,A,3.6,3.78,48,46,46,47,47,3.71,90,A,Govt,Plus Two
+29,Engineering,Computer Eng,3.65,B+,3.2,B,2.8,C+,2.4,B,2.8,3.15,45,48,45,46,45,1.9,60,C,Govt,Bachelor
+30,Engineering,Computer Eng,3.7,A,3.6,A+,4,A,3.6,B+,3.2,3.5,47,44,46,46,40,0,0,F,Private,Plus Two
+31,Engineering,Computer Eng,3.45,B,2.8,A,3.6,B+,3.2,A,3.6,3.36,40,47,45,47,47,2.47,70,B-,Govt,Master
+32,Engineering,Computer Eng,3.22,B,2.8,B,2.8,B+,3.2,B+,3.2,3.22,42,45,37,42,42,2.74,75,B,Govt,Master
+33,Engineering,Computer Eng,3.93,B,2.8,A+,4,B,2.8,C+,2.4,3.22,45,42,42,46,44,2.83,75,B,Private,SLC
+34,Engineering,Computer Eng,3.6,B+,3.2,A,3.6,B,2.8,B,2.8,3.15,30,49,37,44,40,0,0,F,Private,SLC
+35,Engineering,Computer Eng,3.7,A,3.6,A+,4,B+,3.2,B+,3.2,3.43,30,42,36,42,39,0,0,F,Private,Plus Two
+36,Engineering,Computer Eng,3.7,A,3.6,A+,4,B+,3.2,B+,3.2,3.5,41,36,41,42,44,0,0,F,Private,Bachelor
+37,Engineering,Computer Eng,3.6,A,3.6,A+,4,B+,3.2,B+,3.2,3.5,39,42,40,44,44,2.59,70,B-,Private,Plus Two
+38,Engineering,Computer Eng,3.55,A,3.6,B+,3.2,A,3.6,B+,3.2,3.41,35,47,38,41,39,0,0,F,Private,SLC
+39,Engineering,Computer Eng,3.47,B+,3.2,B,2.8,B,2.8,A,3.6,3.19,41,33,45,47,46,2.82,75,B,Private,Bachelor
+40,Engineering,Computer Eng,3.65,B+,3.2,A+,4,B,2.8,B+,3.2,3.29,45,44,45,47,43,3.2,80,B+,Govt,Bachelor
+1,Engineering,Software Eng,3.55,B,2.8,B+,3.2,C,2,A,3.6,3.01,33,39,44,44,39,0,0,F,Private,SLC
+2,Engineering,Software Eng,3.8,B+,3.2,B+,3.2,A,3.6,A,3.6,3.29,45,41,45,39,41,2.92,75,B,Govt,Bachelor
+3,Engineering,Software Eng,3.1,B,2.8,B+,3.2,C,2,A,3.6,3.22,38,42,43,41,42,0,0,F,Govt,Plus Two
+4,Engineering,Software Eng,3.6,A,3.6,A+,4,A+,4,A,3.6,3.78,40,34,46,41,34,3.11,80,B+,Govt,Bachelor
+5,Engineering,Software Eng,3.55,B,2.8,A,3.6,B,2.8,B+,3.2,3.22,48,49,45,47,49,3.31,85,A-,Govt,Bachelor
+6,Engineering,Software Eng,3.85,B,2.8,C+,2.4,C+,2.4,C+,2.4,3.73,41,40,45,46,40,3.72,90,A,Private,Bachelor
+7,Engineering,Software Eng,3.6,A,3.6,A,3.6,A,3.6,B+,3.2,3.5,38,42,45,39,42,1.9,60,C,Govt,Bachelor
+8,Engineering,Software Eng,3.75,B+,3.2,A,3.6,B+,3.2,B,2.8,3.33,48,49,46,43,49,3.45,85,A-,Private,Bachelor
+9,Engineering,Software Eng,3.6,B+,3.2,A,3.6,B+,3.2,B,2.8,3.33,32,41,44,39,41,0,0,F,Govt,Bachelor
+10,Engineering,Software Eng,3.07,B+,3.2,B,2.8,C+,2.4,A+,4,3.44,35,34,36,42,34,0,0,F,Govt,SLC
+11,Engineering,Software Eng,3.25,B,2.8,A,3.6,B,2.8,B+,3.2,3.22,36,44,43,46,44,0,0,F,Private,Plus Two
+12,Engineering,Software Eng,3.6,B+,3.2,A,3.6,B+,3.2,B,2.8,3.26,32,40,42,40,40,3.01,80,B+,Govt,Plus Two
+13,Engineering,Software Eng,3.65,A,3.6,A,3.6,A,3.6,A,3.6,3.26,46,45,48,41,45,3.75,90,A,Govt,SLC
+14,Engineering,Software Eng,3.85,B+,3.2,C+,2.4,B,2.8,A,3.6,2.63,35,31,44,41,31,1.9,60,C,Govt,SLC
+15,Engineering,Software Eng,3.56,B+,3.2,B,2.8,B,2.8,B,2.8,3.32,40,38,44,41,38,0,0,F,Private,Plus Two
+16,Engineering,Software Eng,3.55,D+,1.6,B,2.8,C,2,C,2,2.99,43,45,46,41,45,0,0,F,Private,Plus Two
+17,Engineering,Software Eng,3.45,B,2.8,A+,4,B,2.8,A,3.6,3.43,40,40,44,40,40,3.38,85,A-,Govt,SLC
+18,Engineering,Software Eng,3.65,A,3.6,B+,3.2,A,3.6,A,3.6,3.77,49,42,46,42,42,3.71,90,A,Private,Bachelor
+19,Engineering,Software Eng,3.4,B+,3.2,B,2.8,C+,2.4,C+,2.4,2.57,45,39,44,42,39,0,0,F,Private,Plus Two
+20,Engineering,Software Eng,3.5,B+,3.2,B,2.8,B+,3.2,C+,2.4,2.95,45,43,44,44,43,2.28,65,C+,Private,Bachelor
+21,Engineering,Software Eng,3.4,B+,3.2,A+,4,C+,2.4,B+,3.2,3.22,40,41,46,41,41,0,0,F,Govt,Plus Two
+22,Engineering,Software Eng,2.65,B,2.8,B,2.8,C+,2.4,B,2.8,3.03,46,36,44,40,36,2.05,65,C+,Private,SLC
+23,Engineering,Software Eng,3.6,B+,3.2,B+,3.2,B,2.8,C,2,2.94,45,41,45,43,41,0,0,F,Govt,SLC
+24,Engineering,Software Eng,3.35,C+,2.4,B,2.8,B,2.8,C+,2.4,2.72,29,44,45,39,44,0,0,F,Govt,Plus Two
+25,Engineering,Software Eng,3.7,A,3.6,A,3.6,A,3.6,A,3.6,3.48,37,34,45,41,34,3.13,80,B+,Private,Plus Two
+26,Engineering,Software Eng,3.8,A,3.6,A,3.6,B,2.8,A+,4,3.45,40,47,47,45,47,3.31,85,A-,Govt,Master
+27,Engineering,Software Eng,3.85,B+,3.2,B+,3.2,C,2,C+,2.4,2.84,39,32,40,42,32,0,0,F,Private,Master
+28,Engineering,Software Eng,3.66,B+,3.2,B+,3.2,B+,3.2,B,2.8,3.29,40,32,46,47,32,2.63,70,B-,Private,Plus Two
+29,Engineering,Software Eng,3.55,B,2.8,B+,3.2,B,2.8,B+,3.2,3.15,34,25,42,46,25,0,0,F,Govt,Bachelor
+30,Engineering,Software Eng,3.55,B,2.8,B+,3.2,B+,3.2,B+,3.2,3.15,45,40,45,46,40,0,0,F,Private,SLC
+31,Engineering,Software Eng,3.9,B+,3.2,B,2.8,B,2.8,B,2.8,3.01,25,24,40,47,24,2.74,75,B,Govt,Bachelor
+32,Engineering,Software Eng,3.59,B,2.8,B+,3.2,B,2.8,C+,2.4,3.01,40,32,47,42,32,0,0,F,Private,Bachelor
+33,Engineering,Software Eng,3.8,B,2.8,B+,3.2,B,2.8,C+,2.4,3.01,35,40,46,46,40,2.94,75,B,Private,Bachelor
+34,Engineering,Software Eng,3.76,C+,2.4,B,2.8,B,2.8,B+,3.2,2.87,29,42,45,44,42,2.78,75,B,Govt,Master
+35,Engineering,Software Eng,3.1,A,3.6,B+,3.2,B,2.8,C+,2.4,3.01,35,44,46,42,44,0,0,F,Private,SLC
+36,Engineering,Software Eng,3.59,B,2.8,C,2,B+,3.2,C+,2.4,3.2,30,34,42,42,34,0,0,F,Private,Bachelor
+37,Engineering,Software Eng,3.7,B,2.8,B+,3.2,C+,2.4,C+,2.4,2.94,35,48,48,44,50,2.31,70,B-,Private,Master
+38,Engineering,Software Eng,3.35,B,2.8,B,2.8,C+,2.4,A,3.6,3.08,45,44,44,41,50,3.46,85,A-,Private,Bachelor
+39,Engineering,Software Eng,3.4,B+,3.2,B+,3.2,A,3.6,A,3.6,3.5,32,28,43,47,28,0,0,F,Private,Plus Two
+40,Engineering,Software Eng,3.55,A,3.6,B+,3.2,C+,2.4,B,2.8,3.08,37,40,43,47,40,2.69,70,B-,Private,Bachelor
+41,Engineering,Software Eng,3.71,A,3.6,B,2.8,B,2.8,B+,3.2,3.53,41,45,44,44,45,3.31,85,A-,Private,Master
+42,Engineering,Software Eng,3.65,B+,3.2,B,2.8,A,3.6,B,2.8,3.15,22,45,43,41,45,2.35,70,B-,Private,Bachelor
+43,Engineering,Software Eng,3.1,B+,3.2,A,3.6,B+,3.2,C+,2.4,3.8,25,35,44,47,35,0,0,F,Private,SLC
+44,Engineering,Software Eng,3.35,B,2.8,A+,4,A,3.6,B,2.8,3.36,42,47,47,47,50,2.3,65,C+,Govt,Plus Two
+45,Engineering,Software Eng,3.8,B,2.8,A,3.6,C+,2.4,C+,2.4,3.08,38,44,44,47,44,0,0,F,Private,Plus Two
+46,Engineering,Software Eng,3.75,B,2.8,B,2.8,B,2.8,B,2.8,3.08,47,44,46,47,44,3.02,80,B+,Private,SLC
+1,Engineering,Civil Eng,3.38,A,3.6,B,2.8,B+,3.2,B,2.8,3.57,44,43,44,47,43,3.59,85,A-,Govt,Bachelor
+2,Engineering,Civil Eng,3.9,A,3.6,A+,4,A,3.6,B+,3.2,3.43,39,41,44,44,41,0,0,F,Private,Bachelor
+3,Engineering,Civil Eng,3.6,A,3.6,A+,4,A,3.6,A,3.6,3.6,42,45,43,45,45,3.66,85,A-,Private,SLC
+4,Engineering,Civil Eng,3.7,B+,3.2,A+,4,B+,3.2,A+,4,3.57,39,39,43,44,39,3.12,80,B+,Private,Master
+5,Engineering,Civil Eng,3,B,2.8,C+,2.4,C,2,D+,1.6,2.44,39,34,45,44,34,0,0,F,Govt,Bachelor
+6,Engineering,Civil Eng,3.5,B,2.8,A,3.6,A,3.6,B+,3.2,3.36,39,34,45,44,34,2.93,75,B,Govt,Plus Two
+7,Engineering,Civil Eng,3.6,B+,3.2,A,3.6,A,3.6,B+,3.2,3.19,39,43,43,47,43,3.29,80,B+,Govt,Plus Two
+8,Engineering,Civil Eng,3.65,B,2.8,A,3.6,B+,3.2,B,2.8,3.29,0,0,0,0,0,0,0,F,Private,Master
+9,Engineering,Civil Eng,2.79,B,2.8,B+,3.2,B,2.8,B+,3.2,2.79,30,34,41,43,34,0,0,F,Govt,SLC
+10,Engineering,Civil Eng,3.8,B+,3.2,A+,4,A,3.6,A,3.6,3.71,48,50,46,49,50,4,90,A,Private,SLC
+11,Engineering,Civil Eng,3.25,B,2.8,A,3.6,C+,2.4,C+,2.4,2.94,40,45,41,46,45,3.22,80,B+,Private,SLC
+12,Engineering,Civil Eng,3.8,B+,3.2,B+,3.2,A+,4,A,3.6,3.5,37,43,42,43,43,2.87,75,B,Private,Plus Two
+13,Engineering,Civil Eng,3.44,A,3.6,C,2,C+,2.4,C+,2.4,3.55,25,26,43,42,26,0,0,F,Govt,Plus Two
+14,Engineering,Civil Eng,3.5,B,2.8,B,2.8,B,2.8,B+,3.2,3.57,42,43,41,44,43,3.55,85,A-,Govt,Plus Two
+15,Engineering,Civil Eng,3.4,A,3.6,B+,3.2,B+,3.2,B,2.8,3.87,33,43,43,44,43,2.91,75,B,Govt,Plus Two
+16,Engineering,Civil Eng,3.85,B+,3.2,C,2,C+,2.4,C+,2.4,2.79,43,47,40,45,47,3.28,80,B+,Govt,Bachelor
+17,Engineering,Civil Eng,3.75,B+,3.2,A+,4,A,3.6,A,3.6,3.64,42,42,40,44,42,2.86,75,B,Private,Plus Two
+18,Engineering,Civil Eng,3.8,B,2.8,A,3.6,B+,3.2,A,3.6,3.6,41,39,41,44,39,0,0,F,Govt,SLC
+19,Engineering,Civil Eng,3.5,A,3.6,B+,3.2,C+,C,B,2.8,3.4,25,25,43,42,25,0,0,F,Govt,Bachelor
+20,Engineering,Civil Eng,3.75,A,3.6,A,3.6,B+,3.2,B+,3.2,3.24,40,41,42,45,41,2.81,75,B,Private,Master
+21,Engineering,Civil Eng,3.55,B+,3.2,B,2.8,A+,4,A+,4,3.48,33,25,41,44,25,0,0,F,Govt,Bachelor
+22,Engineering,Civil Eng,3.55,B+,3.2,A,3.6,A+,4,A,3.6,3.57,46,49,46,45,49,2,60,C,Govt,Plus Two
+23,Engineering,Civil Eng,3.1,B,2.8,A,3.6,B,2.8,B,2.8,3.12,33,41,43,44,41,0,0,F,Govt,SLC
+24,Engineering,Civil Eng,3.8,B+,3.2,A+,4,A+,4,A+,4,3.78,49,49,43,45,49,3.88,90,A,Private,Bachelor
+25,Engineering,Civil Eng,3,B,2.8,C,2,A,3.6,B,2.8,3.2,38,39,41,43,39,0,0,F,Private,Plus Two
+26,Engineering,Civil Eng,3.8,B+,3.2,A+,4,A+,4,A+,4,3.71,33,39,42,43,39,2.65,70,B-,Private,Bachelor
+27,Engineering,Civil Eng,3.6,B,2.8,B,2.8,B,2.8,B+,3.2,3.01,39,46,44,44,46,3.46,85,A-,Govt,Plus Two
+28,Engineering,Civil Eng,3.4,B,2.8,B+,3.2,B,2.8,A,3.6,2.99,40,45,44,44,45,3.39,85,A-,Private,Plus Two
+29,Engineering,Civil Eng,3.85,B+,3.2,A,3.6,A+,4,A+,4,3.57,46,48,46,45,48,3.84,90,A,Private,SLC
+30,Engineering,Civil Eng,3.65,A,3.6,A+,4,B+,3.2,A,3.6,3.39,40,46,42,46,46,3.52,85,A-,Govt,Plus Two
+31,Engineering,Civil Eng,3.35,B+,3.2,C,2,B,2.8,A,3.6,3.25,38,40,46,45,40,3.05,80,B+,Govt,Bachelor
+32,Engineering,Civil Eng,3.6,B,2.8,B+,3.2,A,3.6,A,3.6,3.36,46,49,46,47,49,3.78,90,A,Private,Plus Two
+33,Engineering,Civil Eng,3.55,B+,3.2,B+,3.2,A,3.6,B,2.8,3.29,43,46,43,44,46,3.65,85,A-,Govt,Master
+34,Engineering,Civil Eng,3.6,B,2.8,B,2.8,B+,3.2,B,2.8,3.08,36,35,41,41,35,0,0,F,Govt,Master
+35,Engineering,Civil Eng,3.55,A,3.6,B+,3.2,B+,3.2,B,2.8,3.22,38,40,42,44,40,0,0,F,Private,SLC
+36,Engineering,Civil Eng,3.55,B+,3.2,A,3.6,B+,3.2,A,3.6,3.36,34,38,41,42,38,0,0,F,Private,SLC
+37,Engineering,Civil Eng,3.45,B+,3.2,B,2.8,C+,2.4,C+,2.4,2.28,36,32,40,43,32,0,0,F,Private,Plus Two
+38,Engineering,Civil Eng,3.5,B+,3.2,B+,3.2,B,2.8,B+,3.2,2.71,31,36,42,40,36,0,0,F,Private,Bachelor
+39,Engineering,Civil Eng,3.5,B+,3.2,C+,2.4,A,3.6,B+,3.2,3.22,41,41,43,46,41,2.73,75,B,Private,Plus Two
+40,Engineering,Civil Eng,3.7,B+,3.2,A,3.6,B+,3.2,B,2.8,3.7,43,45,45,45,45,0,0,F,Private,SLC
+41,Engineering,Civil Eng,2.7,B+,3.2,B+,3.2,B+,3.2,B+,3.2,2.79,35,40,43,44,40,2.35,70,B-,Private,Bachelor
+42,Engineering,Civil Eng,3.2,B+,3.2,A+,4,A,3.6,A,3.6,3.57,29,38,42,43,38,0,0,F,Govt,Bachelor
+43,Engineering,Civil Eng,3.45,A,3.6,B+,3.2,B+,3.2,B,2.8,3.36,46,48,45,45,48,3.52,85,A-,Private,SLC
+44,Engineering,Civil Eng,3.3,B+,3.2,A,3.6,B,2.8,A,3.6,3.36,35,39,43,44,39,2.86,75,B,Govt,Bachelor
+45,Engineering,Civil Eng,3.65,A,3.6,A+,4,A,3.6,A+,4,3.71,49,46,44,45,46,3.84,90,A,Govt,Plus Two
+46,Engineering,Civil Eng,3.65,A,3.6,A,3.6,B,2.8,B+,3.2,3.71,49,49,45,46,49,3.76,90,A,Govt,Bachelor
+47,Engineering,Civil Eng,3.5,B,2.8,B,2.8,B+,3.2,B+,3.2,3.08,34,32,44,43,32,2.98,75,B,Govt,Bachelor
+48,Engineering,Civil Eng,3.5,B+,3.2,A,3.6,B,2.8,C,2,2.94,36,38,44,44,38,0,0,F,Private,Bachelor
+49,Engineering,Civil Eng,3.5,B+,3.2,B+,3.2,B,2.8,C+,2.4,3.08,39,42,45,44,42,3.13,80,B+,Govt,Bachelor
+50,Engineering,Civil Eng,3.35,B+,3.2,B+,3.2,B,2.8,B+,3.2,3.04,34,43,43,45,43,2.97,75,B,Private,Bachelor
+51,Engineering,Civil Eng,3.4,B+,3.2,C+,2.4,B,2.8,B+,3.2,3.01,29,42,43,43,42,0,0,F,Govt,Bachelor
+52,Engineering,Civil Eng,3.65,B+,3.2,B+,3.2,B+,3.2,A,3.6,3.43,35,41,41,45,41,1.9,60,C,Govt,Bachelor
+53,Engineering,Civil Eng,3.92,A,3.6,A+,4,A+,4,A,3.6,3.71,46,47,45,46,47,3.93,90,A,Private,Master
+54,Engineering,Civil Eng,3.5,A,3.6,B+,3.2,A,3.6,A,3.6,3.29,39,45,41,44,45,3.75,90,A,Govt,Bachelor
+55,Engineering,Civil Eng,3.4,A,3.6,B+,3.2,B+,3.2,B,2.8,3.15,38,42,41,42,42,2.72,75,B,Govt,Bachelor
+56,Engineering,Civil Eng,3.18,B+,3.2,B+,3.2,B,2.8,C,2,3.08,32,36,43,42,36,0,0,F,Private,Plus Two
+57,Engineering,Civil Eng,3.5,A,3.6,A+,4,B+,3.2,B,2.8,3.5,35,39,41,45,39,3.09,80,B+,Govt,Bachelor
+58,Engineering,Civil Eng,3.5,B,2.8,A,3.6,A,3.6,A,3.6,3.43,36,42,43,43,42,0,0,F,Govt,Bachelor
+59,Engineering,Civil Eng,3.65,A,3.6,C,2,C+,2.4,C+,2.4,2.87,43,42,44,45,42,2.76,75,B,Private,Plus Two
+60,Engineering,Civil Eng,3.2,B,2.8,B+,3.2,C,2,B,2.8,3.2,42,46,43,44,46,0,0,F,Private,Plus Two
+61,Engineering,Civil Eng,3.45,B+,3.2,B,2.8,B,2.8,B,2.8,2.68,34,38,46,46,38,0,0,F,Govt,Bachelor
+62,Engineering,Civil Eng,3.75,B+,3.2,B+,3.2,A,3.6,A,3.6,3.59,34,42,44,44,42,2.62,70,B-,Govt,Bachelor
+63,Engineering,Civil Eng,3.4,A,3.6,B+,3.2,A,3.6,C+,2.4,3.57,34,49,45,43,49,0,0,F,Govt,Bachelor
+64,Engineering,Civil Eng,3.7,B+,3.2,A,3.6,B,2.8,B+,3.2,3.29,43,43,43,44,43,2.94,75,B,Govt,Bachelor
+65,Engineering,Civil Eng,3.25,B,2.8,B+,3.2,B+,3.2,C+,2.4,3.01,34,34,43,45,34,0,0,F,Private,Plus Two
+66,Engineering,Civil Eng,3.7,B+,3.2,A,3.6,B,2.8,A,3.6,3.36,35,35,41,41,35,0,0,F,Govt,Bachelor
+67,Engineering,Civil Eng,3.55,B+,3.2,A,3.6,C+,2.4,A,3.6,3.36,28,34,41,42,34,0,0,F,Govt,Bachelor
+68,Engineering,Civil Eng,3.25,B,2.8,A,3.6,B,2.8,B+,3.2,3.22,35,38,41,42,38,0,0,F,Private,SLC
+69,Engineering,Civil Eng,3.65,B+,3.2,C,2,C+,2.4,A,3.6,3.01,31,38,46,45,38,0,0,F,Private,SLC
+70,Engineering,Civil Eng,3.45,B,2.8,A,3.6,B+,3.2,B+,3.2,3.29,29,29,40,42,29,0,0,F,Private,Bachelor
+71,Engineering,Civil Eng,3.55,C,2,B,2.8,C+,2.4,B,2.8,2.66,28,38,41,41,38,0,0,F,Private,SLC
+72,Engineering,Civil Eng,3.85,A,3.6,B+,3.2,B+,3.2,C,2,3.43,31,40,44,47,40,0,0,F,Private,SLC
+73,Engineering,Civil Eng,3.8,A,3.6,B+,3.2,B+,3.2,B+,3.2,3.17,34,45,45,45,45,1.69,55,C-,Private,SLC
+74,Engineering,Civil Eng,3.8,A,3.6,A,3.6,A,3.6,A,3.6,3.55,42,44,43,43,44,0,0,F,Govt,SLC
+75,Engineering,Civil Eng,3.55,B+,3.2,A+,4,B,2.8,B+,3.2,3.29,34,25,40,42,25,0,0,F,Govt,SLC
+76,Engineering,Civil Eng,3.1,B+,3.2,B,2.8,B+,3.2,B,2.8,3.5,41,42,41,42,42,3.57,85,A-,Private,SLC
+77,Engineering,Civil Eng,3.1,B+,3.2,B,2.8,B+,3.2,B,2.8,3.5,41,46,42,45,46,3.18,80,B+,Govt,SLC
+78,Engineering,Civil Eng,3.85,B+,3.2,A,3.6,A+,4,A,3.6,3.64,46,46,46,45,46,3.66,85,A-,Private,SLC
+79,Engineering,Civil Eng,3.25,B+,3.2,B,2.8,C,2,A,3.6,3.44,41,43,43,44,43,3.45,85,A-,Govt,SLC
+80,Engineering,Civil Eng,3.7,A,3.6,B,2.8,C+,2.4,A,3.6,3.33,41,49,45,45,49,3.44,85,A-,Private,SLC
+81,Engineering,Civil Eng,3.85,B+,3.2,B,2.8,A,3.6,C,2,3.13,39,44,46,45,44,2.97,75,B,Private,SLC
+82,Engineering,Civil Eng,3.92,B+,3.2,B+,3.2,B,2.8,B+,3.2,3,39,44,43,44,44,0,0,F,Govt,SLC
+83,Engineering,Civil Eng,3.9,A,3.6,B,2.8,A,3.6,A,3.6,3.19,38,41,46,43,41,3.2,80,B+,Private,SLC
+84,Engineering,Civil Eng,3.6,C+,2.4,C+,2.4,B,2.8,C,2,2.72,40,44,44,46,44,3.05,80,B+,Private,SLC
+85,Engineering,Civil Eng,3.4,B,2.8,B,2.8,C,2,A,3.6,2.99,31,41,41,43,41,0,0,F,Govt,SLC
+86,Engineering,Civil Eng,3.7,B+,3.2,A,3.6,A+,4,B,2.8,3.43,40,45,46,44,45,2.8,75,B,Govt,SLC
+87,Engineering,Civil Eng,3.85,B+,3.2,B,2.8,B,2.8,C,2,2.87,33,42,45,45,42,0,0,F,Private,SLC
+88,Engineering,Civil Eng,3.75,A,3.6,B,2.8,B+,3.2,B,2.8,3.43,47,46,48,46,46,3.65,85,A-,Private,SLC
+1,Engineering,Civil and Rural Eng,3.8,B+,3.2,A,3.6,B,2.8,B,2.8,3.29,41,40,40,43,43,0,0,F,Govt,SLC
+2,Engineering,Civil and Rural Eng,3.55,B+,3.2,A,3.6,B,2.8,B+,3.2,3.08,44,42,43,43,42,3.59,85,A-,Private,SLC
+3,Engineering,Civil and Rural Eng,3.4,B+,3.2,A+,4,A,3.6,B+,3.2,3.57,33,35,35,42,40,0,0,F,Govt,SLC
+4,Engineering,Civil and Rural Eng,3.7,A,3.6,B,2.8,A,3.6,A,3.6,3.36,47,43,45,44,43,0,0,F,Private,Plus Two
+5,Engineering,Civil and Rural Eng,3.4,B+,3.2,A,3.6,B+,3.2,C+,2.4,3.22,46,45,38,42,43,0,0,F,Private,Master
+6,Engineering,Civil and Rural Eng,3.6,B,2.8,A,3.6,A,3.6,A,3.6,3.36,45,47,46,45,48,3.67,85,A-,Private,Plus Two
+7,Engineering,Civil and Rural Eng,3.6,B+,3.2,B,2.8,C+,2.4,B+,3.2,3.13,42,42,38,45,43,0,0,F,Private,Plus Two
+8,Engineering,Civil and Rural Eng,3.45,C+,2.4,A,3.6,A,3.6,B,2.8,3.22,41,42,40,45,44,0,0,F,Private,Plus Two
+9,Engineering,Civil and Rural Eng,3.5,B,2.8,C,2,A,3.6,B+,3.2,3.2,43,46,45,48,46,2.68,70,B-,Govt,Bachelor
+10,Engineering,Civil and Rural Eng,2.65,B,2.8,C,2,C,2,B,2.8,3.1,35,36,38,46,40,0,0,F,Govt,Bachelor
+11,Engineering,Civil and Rural Eng,3.05,B,2.8,B,2.8,C,2,A,3.6,3,37,42,35,44,40,0,0,F,Private,Bachelor
+12,Engineering,Civil and Rural Eng,3.3,B,2.8,A,3.6,B+,3.2,B,2.8,3.29,40,36,40,45,42,0,0,F,Private,Bachelor
+13,Engineering,Civil and Rural Eng,3.45,A,3.6,B,2.8,C+,2.4,C+,2.4,2.98,45,41,43,46,44,3.07,80,B+,Govt,Bachelor
+14,Engineering,Civil and Rural Eng,3.4,B+,3.2,D+,1.6,D+,1.6,B,2.8,2.93,26,35,38,41,44,0,0,F,Private,Bachelor
+15,Engineering,Civil and Rural Eng,3.05,C,2,B,2.8,B,2.8,B+,3.2,3,49,46,49,44,48,3.87,90,A,Govt,Plus Two
+16,Engineering,Civil and Rural Eng,3.75,B+,3.2,B+,3.2,A,3.6,A+,4,3.43,37,35,41,44,44,3.08,80,B+,Private,Plus Two
+17,Engineering,Civil and Rural Eng,3.19,B+,3.2,C,2,A,3.6,B,2.8,3.17,38,35,43,44,40,0,0,F,Private,SLC
+18,Engineering,Civil and Rural Eng,3.55,B,2.8,B+,3.2,B+,3.2,A,3.6,3.29,44,44,45,45,46,3.66,85,A-,Private,SLC
+19,Engineering,Civil and Rural Eng,3.05,B,2.8,B+,3.2,B+,3.2,B,2.8,3,41,35,41,43,46,2.49,70,B-,Private,Plus Two
+20,Engineering,Civil and Rural Eng,3.6,B,2.8,A,3.6,B+,3.2,B+,3.2,3.29,41,35,40,45,43,0,0,F,Govt,Bachelor
+21,Engineering,Civil and Rural Eng,3.3,B+,3.2,A,3.6,C+,2.4,B,2.8,3.08,41,37,43,43,43,3.14,80,B+,Private,Bachelor
+22,Engineering,Civil and Rural Eng,3.6,B,2.8,A+,4,A+,4,B+,3.2,3.33,50,37,41,43,43,0,0,F,Govt,Bachelor
+23,Engineering,Civil and Rural Eng,3.6,B,2.8,B+,3.2,C+,2.4,C,2,2.79,32,38,40,44,42,0,0,F,Private,SLC
+24,Engineering,Civil and Rural Eng,3.4,C,2,B,2.8,B+,3.2,B,2.8,2.91,38,35,38,43,41,0,0,F,Govt,Bachelor
+25,Engineering,Civil and Rural Eng,3.55,B,2.8,B+,3.2,B+,3.2,A+,4,3.43,49,46,43,45,44,4,90,A,Govt,Plus Two
+26,Engineering,Civil and Rural Eng,3.6,A,3.6,B+,3.2,B,2.8,B,2.8,3.19,42,44,43,43,42,0,0,F,Private,Master
+27,Engineering,Civil and Rural Eng,3,B+,3.2,B,2.8,B,2.8,B,2.8,2.79,25,35,35,41,38,0,0,F,Private,SLC
+28,Engineering,Civil and Rural Eng,3.5,A,3.6,A,3.6,B+,3.2,B+,3.2,3.41,30,35,0,41,0,0,0,F,Private,Plus Two
+29,Engineering,Civil and Rural Eng,2.9,A,3.6,A,3.6,B+,3.2,B+,3.2,3.16,36,36,40,44,42,3.2,80,B+,Govt,Plus Two
+30,Engineering,Civil and Rural Eng,3.4,A,3.6,A+,4,B+,3.2,B+,3.2,3.27,44,41,43,44,44,3.77,90,A,Private,Plus Two
+31,Engineering,Civil and Rural Eng,3.75,A,3.6,B,2.8,A,3.6,A,3.6,3.43,49,48,45,46,46,2.76,75,B,Private,Master
+32,Engineering,Civil and Rural Eng,3.05,A,3.6,B,2.8,B+,3.2,B,2.8,3,41,38,41,44,44,2.62,70,B-,Private,Master
+33,Engineering,Civil and Rural Eng,3.2,C+,2.4,B,2.8,C+,2.4,B,2.8,2.52,43,47,41,45,46,0,0,F,Private,Plus Two
+34,Engineering,Civil and Rural Eng,3.3,C+,2.4,C,2,C,2,A,3.6,2.79,42,40,43,44,44,4,90,A,Private,SLC
+35,Engineering,Civil and Rural Eng,3.05,A,3.6,B,2.8,B+,3.2,B,2.8,3,50,47,47,47,44,0,0,F,Private,Bachelor
+36,Engineering,Civil and Rural Eng,3.1,B+,3.2,B,2.8,C+,2.4,C+,2.4,2.53,0,0,0,0,0,0,0,F,Govt,Plus Two
+37,Engineering,Civil and Rural Eng,3.45,B+,3.2,A,3.6,B+,3.2,A+,4,3.46,46,46,43,44,46,3.68,85,A-,Private,Bachelor
+38,Engineering,Civil and Rural Eng,3.7,A,3.6,A+,4,A,3.6,B+,3.2,3.54,46,43,40,45,45,3.28,80,B+,Govt,Bachelor
+39,Engineering,Civil and Rural Eng,3.7,A,3.6,B+,B,C,2,C,2,2.7,45,43,40,46,46,0,0,F,Private,Bachelor
+40,Engineering,Civil and Rural Eng,3.6,B+,3.2,B+,3.2,A,3.6,B+,3.2,3.51,40,40,40,44,45,1.69,55,C-,Govt,Plus Two
+41,Engineering,Civil and Rural Eng,3.92,B+,3.2,A+,4,B+,3.2,A,3.6,3.5,36,39,43,42,44,3.36,85,A-,Private,Plus Two
+42,Engineering,Civil and Rural Eng,3.55,B+,3.2,A,3.6,B+,3.2,B+,3.2,3.04,42,44,36,44,44,0,0,F,Govt,Plus Two
+43,Engineering,Civil and Rural Eng,3.6,A,3.6,B+,3.2,B+,3.2,B+,3.2,3.46,43,46,40,45,44,0,0,F,Private,SLC
+1,Engineering,Electrical and Elex Eng,3.55,A,3.6,B+,3.2,A,3.6,B+,3.2,3.43,40,39,39,40,47,0,0,F,Private,Plus Two
+2,Engineering,Electrical and Elex Eng,3.45,B,2.8,C,2,C,2,C,2,2.64,40,34,49,45,45,0,0,F,Private,Plus Two
+3,Engineering,Electrical and Elex Eng,2.95,B+,3.2,A,3.6,B+,3.2,B,2.8,2.79,31,34,36,38,39,0,0,F,Private,SLC
+4,Engineering,Electrical and Elex Eng,2.9,C+,2.4,B,2.8,C,2,B+,3.2,2.72,22,34,27,39,31,0,0,F,Govt,SLC
+5,Engineering,Electrical and Elex Eng,3.15,B,2.8,B+,3.2,B,2.8,B+,3.2,2.75,30,45,41,38,33,0,0,F,Govt,SLC
+6,Engineering,Electrical and Elex Eng,3.25,B,2.8,A,3.6,B,2.8,B,2.8,3.15,44,35,40,45,44,0,0,F,Private,SLC
+7,Engineering,Electrical and Elex Eng,3.6,A,3.6,A+,4,A,3.6,A,3.6,3.64,42,39,33,39,41,2.11,65,C+,Govt,Plus Two
+8,Engineering,Electrical and Elex Eng,3.2,A,3.6,A,3.6,A,3.6,C+,2.4,3.29,42,42,37,39,41,2.63,70,B-,Govt,Bachelor
+9,Engineering,Electrical and Elex Eng,3.1,B,2.8,C,2,C+,2.4,A,3.6,2.99,32,39,32,40,44,0,0,F,Private,SLC
+10,Engineering,Electrical and Elex Eng,3.4,B+,3.2,B+,3.2,C+,2.4,B,2.8,3.01,37,46,33,41,44,0,0,F,Private,Plus Two
+11,Engineering,Electrical and Elex Eng,2.53,A,3.6,B+,3.2,B+,3.2,B,2.8,3.19,42,46,33,45,49,0,0,F,Govt,Plus Two
+12,Engineering,Electrical and Elex Eng,3.5,B,2.8,B,2.8,B+,3.2,B,2.8,3.19,35,34,48,47,45,2.99,75,B,Govt,Plus Two
+13,Engineering,Electrical and Elex Eng,3.35,A,3.6,B,2.8,B+,3.2,A,3.6,3.5,44,35,42,40,43,0,0,F,Private,Master
+14,Engineering,Electrical and Elex Eng,3.3,B+,3.2,B,2.8,B+,3.2,B,2.8,3.1,31,35,35,42,41,0,0,F,Private,Plus Two
+15,Engineering,Electrical and Elex Eng,2.95,C+,2.4,B+,3.2,B,2.8,D+,1.6,2.98,34,34,30,38,41,0,0,F,Private,Bachelor
+16,Engineering,Electrical and Elex Eng,3.4,B,2.8,B+,3.2,A,3.6,C+,2.4,3.22,47,48,43,47,44,2.55,70,B-,Govt,Bachelor
+17,Engineering,Electrical and Elex Eng,3.75,B,2.8,A,3.6,A,3.6,A+,4,3.43,49,37,49,47,49,3.35,85,A-,Private,SLC
+18,Engineering,Electrical and Elex Eng,2.7,C+,2.4,C,2,B+,3.2,B+,3.2,2.13,28,35,38,38,39,0,0,F,Govt,Plus Two
+19,Engineering,Electrical and Elex Eng,3.6,B,2.8,A+,4,B+,3.2,B+,3.2,3.36,31,36,34,38,41,0,0,F,Private,Master
+20,Engineering,Electrical and Elex Eng,3.75,C+,2.4,C+,2.4,B+,3.2,C,2,2.77,31,40,36,40,41,3.22,80,B+,Private,SLC
+21,Engineering,Electrical and Elex Eng,3.1,C+,2.4,B+,3.2,B+,3.2,A,3.6,3.22,40,48,42,40,42,0,0,F,Private,Plus Two
+22,Engineering,Electrical and Elex Eng,3.45,A,3.6,B,2.8,B+,3.2,C,2,3,48,35,50,47,50,3.16,80,B+,Govt,Plus Two
+23,Engineering,Electrical and Elex Eng,3.2,A,3.6,A+,4,A,3.6,A,3.6,3.66,38,38,32,40,41,0,0,F,Private,Plus Two
+24,Engineering,Electrical and Elex Eng,3.65,B+,3.2,B,2.8,B,2.8,A+,4,3.39,30,34,33,40,33,1.79,60,C,Private,Master
+25,Engineering,Electrical and Elex Eng,3.35,C+,2.4,B+,3.2,B,2.8,B+,3.2,3.08,31,34,32,39,37,0,0,F,Private,Master
+26,Engineering,Electrical and Elex Eng,3.3,B,2.8,A,3.6,B,2.8,B+,3.2,3.29,40,38,36,38,43,0,0,F,Private,Plus Two
+27,Engineering,Electrical and Elex Eng,3.1,B,2.8,B+,3.2,B,2.8,B,2.8,3.83,43,41,38,42,47,3.05,80,B+,Private,SLC
+28,Engineering,Electrical and Elex Eng,3.8,B+,3.2,C+,2.4,B+,3.2,B+,3.2,2.39,40,35,47,42,48,0,0,F,Govt,Plus Two
+29,Engineering,Electrical and Elex Eng,3.3,B+,3.2,B+,3.2,B,2.8,B,2.8,3.08,43,34,35,40,41,0,0,F,Govt,Plus Two
+30,Engineering,Electrical and Elex Eng,3.6,B+,3.2,C+,2.4,B+,3.2,B+,3.2,3.26,34,44,36,39,48,0,0,F,Private,Plus Two
+31,Engineering,Electrical and Elex Eng,3.65,B,2.8,A,3.6,B,2.8,C+,2.4,3.01,31,43,30,41,37,1.69,55,C-,Private,Plus Two
+32,Engineering,Electrical and Elex Eng,3.65,B,2.8,B,2.8,B,2.8,B+,3.2,3.06,25,34,32,38,0,0,0,F,Private,Bachelor
+33,Engineering,Electrical and Elex Eng,3.35,B,2.8,B+,3.2,C,2,B,2.8,3.08,28,36,28,38,0,0,0,F,Private,SLC
+34,Engineering,Electrical and Elex Eng,2.95,B,2.8,C,2,C,2,B,2.8,2.62,40,33,38,39,41,0,0,F,Private,SLC
+35,Engineering,Electrical and Elex Eng,2.7,C+,2.4,B,2.8,B,2.8,C,2,2.62,33,46,35,38,41,0,0,F,Private,Plus Two
+36,Engineering,Electrical and Elex Eng,3.5,C+,2.4,B+,3.2,A,3.6,B,2.8,3.08,44,42,47,45,40,2.94,75,B,Private,Master
+37,Engineering,Electrical and Elex Eng,3.2,D+,1.6,A,3.6,B,2.8,B,2.8,3.01,38,36,41,42,41,2.82,75,B,Private,Plus Two
+38,Engineering,Electrical and Elex Eng,2.75,A,3.6,A,3.6,B+,3.2,C+,2.4,3.29,30,34,38,40,41,0,0,F,Private,SLC
+39,Engineering,Electrical and Elex Eng,2.7,C+,2.4,B,2.8,C,2,B,2.8,2.72,31,33,30,39,0,0,0,F,Govt,Plus Two
+40,Engineering,Electrical and Elex Eng,3.3,C+,2.4,B+,3.2,B,2.8,C+,2.4,2.94,24,0,28,38,0,0,0,F,Govt,SLC
+41,Engineering,Electrical and Elex Eng,3.05,C+,2.4,B+,3.2,B,2.8,C+,2.4,2.94,0,0,0,0,0,0,0,F,Private,Plus Two
+42,Engineering,Electrical and Elex Eng,2.9,A,3.6,B,2.8,C,2,C,2,2.51,31,23,35,42,42,0,0,F,Govt,Plus Two
+1,Health and Allide,B Pharm,3.5,A,3.6,B+,3.2,B+,3.2,B+,3.2,3.23,39,42,42,43,44,3.25,80,B+,Private,SLC
+2,Health and Allide,B Pharm,2.98,C,2,B,2.8,A,3.6,B,2.8,3.25,39,41,39,38,35,2.83,75,B,Govt,SLC
+3,Health and Allide,B Pharm,3.65,A,3.6,B+,3.2,A,3.6,A,3.6,3.79,40,40,47,49,44,3.87,90,A,Govt,Plus Two
+4,Health and Allide,B Pharm,3.8,A,3.6,A,3.6,A,3.6,A,3.6,3.33,41,41,45,46,46,3.62,85,A-,Private,Plus Two
+5,Health and Allide,B Pharm,3.1,B,2.8,A,3.6,A,3.6,B+,3.2,3.1,30,42,31,36,39,0,0,F,Govt,Plus Two
+6,Health and Allide,B Pharm,3.8,A,3.6,A,3.6,A,3.6,A,3.6,3.46,44,43,44,46,46,3.78,90,A,Govt,Master
+7,Health and Allide,B Pharm,3.8,A,3.6,B,2.8,A+,4,A,3.6,3.46,43,42,44,46,45,3.61,85,A-,Private,Plus Two
+8,Health and Allide,B Pharm,3.6,A,3.6,B,2.8,B+,3.2,B,2.8,2.59,41,41,40,44,36,3.35,85,A-,Private,Bachelor
+9,Health and Allide,B Pharm,3.55,B+,3.2,B,2.8,A,3.6,A,3.6,3.39,38,41,37,47,41,3.27,80,B+,Private,Bachelor
+10,Health and Allide,B Pharm,3.3,A,3.6,B,2.8,A,3.6,A,3.6,3.46,42,41,46,48,45,3.67,85,A-,Govt,SLC
+11,Health and Allide,B Pharm,3.25,B+,3.2,B+,3.2,C+,2.4,B+,3.2,2.73,41,42,41,41,41,3.12,80,B+,Govt,Plus Two
+12,Health and Allide,B Pharm,3.8,A,3.6,C+,2.4,B+,3.2,B+,3.2,2.93,40,44,35,41,37,3.02,80,B+,Private,Master
+13,Health and Allide,B Pharm,3.65,B+,3.2,B+,3.2,A,3.6,C,2,3.19,42,42,45,46,45,3.49,85,A-,Private,SLC
+14,Health and Allide,B Pharm,3.8,B+,3.2,B+,3.2,A+,4,A,3.6,3.39,40,41,41,42,44,3.28,80,B+,Private,Plus Two
+15,Health and Allide,B Pharm,3.3,B+,3.2,B,2.8,B+,3.2,A,3.6,2.79,40,43,45,46,45,3.42,85,A-,Govt,Plus Two
+16,Health and Allide,B Pharm,4,A,3.6,A,3.6,B+,3.2,A,3.6,3.06,40,43,41,44,40,3.25,80,B+,Private,Plus Two
+17,Health and Allide,B Pharm,3.52,A,3.6,A,3.6,A,3.6,B+,3.2,3.44,41,44,42,47,40,3.52,85,A-,Govt,Master
+18,Health and Allide,B Pharm,3.4,B+,3.2,B,2.8,A,3.6,B+,3.2,3.26,41,42,45,48,39,3.48,85,A-,Private,Master
+19,Health and Allide,B Pharm,3.15,A,3.6,B+,3.2,B+,3.2,A,3.6,3.13,40,42,41,43,43,3.08,80,B+,Govt,Plus Two
+20,Health and Allide,B Pharm,3.65,A,3.6,C+,2.4,C+,2.4,C+,2.4,2.71,34,42,40,37,39,2.93,75,B,Govt,SLC
+21,Health and Allide,B Pharm,3.8,A,3.6,B,2.8,B,2.8,B+,3.2,3.49,42,42,44,44,46,3.55,85,A-,Private,Plus Two
+22,Health and Allide,B Pharm,2.95,B+,3.2,B+,3.2,B,2.8,B+,3.2,2.96,36,43,37,40,37,2.71,75,B,Private,Plus Two
+23,Health and Allide,B Pharm,4,C+,2.4,C,2,B,2.8,D+,1.6,4,39,42,37,42,42,2.86,75,B,Private,Plus Two
+24,Health and Allide,B Pharm,3.5,B+,3.2,B+,3.2,A,3.6,B+,3.2,2.99,40,41,44,47,44,3.56,85,A-,Govt,Plus Two
+25,Health and Allide,B Pharm,3.7,A,3.6,A,3.6,A+,4,B+,3.2,3.59,43,45,45,48,47,3.64,85,A-,Private,Bachelor
+26,Health and Allide,B Pharm,3.15,B,2.8,B+,3.2,A,3.6,B,2.8,3.35,39,42,40,46,44,3.36,85,A-,Private,SLC
+27,Health and Allide,B Pharm,3.75,A,3.6,A,3.6,B+,3.2,B+,3.2,3.19,41,44,41,42,45,3.26,80,B+,Private,SLC
+28,Health and Allide,B Pharm,3.2,B+,3.2,A,3.6,B+,3.2,A,3.6,3.52,36,43,42,28,43,3,75,B,Private,Plus Two
+29,Health and Allide,B Pharm,2.9,B+,3.2,B+,3.2,B+,3.2,B,2.8,3.6,42,40,45,45,42,3.56,85,A-,Private,Master
+30,Health and Allide,B Pharm,3.6,A,3.6,B+,3.2,B+,3.2,A,3.6,3.26,39,43,37,41,37,3,75,B,Private,Plus Two
+31,Health and Allide,B Pharm,3.7,B+,3.2,B,2.8,B+,3.2,B+,3.2,2.93,41,43,43,44,45,3.24,80,B+,Govt,SLC
+32,Health and Allide,B Pharm,3.85,A,3.6,A,3.6,A+,4,A,3.6,3.46,44,44,46,46,49,3.87,90,A,Private,Plus Two
+33,Health and Allide,B Pharm,3.09,B,2.8,B+,3.2,B+,3.2,A,3.6,3.3,43,45,44,42.5,41,3.54,85,A-,Govt,SLC
+34,Health and Allide,B Pharm,3.09,D+,1.6,A,3.6,A,3.6,A,3.6,3.3,38,45,43,41.8,39,3.2,80,B+,Private,Plus Two
+35,Health and Allide,B Pharm,3.5,A,3.6,C+,2.4,C+,2.4,C+,2.4,2.78,39,45,47,41,43,3.15,80,B+,Govt,Plus Two
+36,Health and Allide,B Pharm,3.4,C,2,B,2.8,A,3.6,B+,3.2,3.39,41,42,44,46.3,44,3.43,85,A-,Private,SLC
+37,Health and Allide,B Pharm,3.65,B,2.8,B,2.8,A,3.6,A,3.6,2.77,43,43,45,45.7,43,3.59,85,A-,Govt,SLC
+38,Health and Allide,B Pharm,3.45,A,3.6,B,2.8,B+,3.2,B,2.8,2.51,36,42,39,37.9,35,2,60,C,Private,Plus Two
+39,Health and Allide,B Pharm,3.75,B+,3.2,B+,3.2,C+,2.4,C,2,3.07,42,42,46,44.8,42,3.45,85,A-,Private,Plus Two
+40,Health and Allide,B Pharm,3.65,B,2.8,B,2.8,A,3.6,B+,3.2,2.48,41,44,46,46.1,43,3.37,85,A-,Private,Plus Two
+41,Health and Allide,B Pharm,3,B,2.8,C,2,B,2.8,B,2.8,2.73,41,42,45,45.4,39,0,0,F,Private,Master
+42,Health and Allide,B Pharm,2.86,B,2.8,C,2,A,3.6,B+,3.2,3.65,43,42,45,46.6,43,3.43,85,A-,Private,Plus Two
+43,Health and Allide,B Pharm,3.9,B+,3.2,D+,1.6,B,2.8,B,2.8,2.86,45,43,47,45.4,43,3.61,85,A-,Private,Bachelor
+44,Health and Allide,B Pharm,3.55,B+,3.2,C+,2.4,B,2.8,B+,3.2,3.09,46,43,44,39.1,42,3.13,80,B+,Private,Bachelor
+45,Health and Allide,B Pharm,3.55,B+,3.2,C+,2.4,B,2.8,B+,3.2,3.09,41,42,45,42.7,42,3.44,85,A-,Govt,SLC
+46,Health and Allide,B Pharm,3.2,B,2.8,B+,3.2,A,3.6,B+,3.2,3.5,43,42,45,44.1,39,3.22,80,B+,Private,Plus Two
+47,Health and Allide,B Pharm,3.75,A,3.6,D+,1.6,C,2,D+,1.6,3.05,43,44,44,41.2,44,3.01,80,B+,Private,Master
+48,Health and Allide,B Pharm,3.45,C+,2.4,D+,1.6,D+,1.6,D+,1.6,2.57,44,42,44,40.7,42,2.2,65,C+,Govt,SLC
+49,Health and Allide,B Pharm,3.55,B+,3.2,B,2.8,B+,3.2,B+,3.2,2.53,46,43,44,45.2,44,3.15,80,B+,Govt,Plus Two
+50,Health and Allide,B Pharm,3.5,A,3.6,B,2.8,B+,3.2,B+,3.2,3.6,44,42,44,44.6,45,3.4,85,A-,Private,Plus Two
+51,Health and Allide,B Pharm,3.65,B+,3.2,B,2.8,B+,3.2,C+,2.4,3.06,46,44,46,43.2,45,3.56,85,A-,Private,Plus Two
+52,Health and Allide,B Pharm,2.8,B,2.8,C,2,B+,3.2,B,2.8,2.7,43,43,43,42.4,38,0,0,F,Govt,Master
+53,Health and Allide,B Pharm,3.1,C+,2.4,C,2,B,2.8,B,2.8,2.99,44,45,45,42.2,42,3.96,90,A,Govt,Master
+54,Health and Allide,B Pharm,3.55,B,2.8,C,2,B,2.8,C+,2.4,3.04,45,44,46,47.1,46,3.28,80,B+,Private,Plus Two
+55,Health and Allide,B Pharm,3.4,B+,3.2,B,2.8,A,3.6,B+,3.2,3.23,48,44,45,49.1,48,4,90,A,Private,SLC
+56,Health and Allide,B Pharm,3.25,B,2.8,B,2.8,C+,2.4,B,2.8,2.35,44,41,45,42.6,43,3.54,85,A-,Private,Plus Two
+57,Health and Allide,B Pharm,3.1,B,2.8,B,2.8,A,3.6,B+,3.2,3.5,43,42,45,45.2,45,3.74,90,A,Govt,Plus Two
+58,Health and Allide,B Pharm,3.35,A,3.6,B,2.8,C+,2.4,B+,3.2,3.5,45,44,46,42.9,42,3.36,85,A-,Private,Plus Two
+59,Health and Allide,B Pharm,3,A,3.6,C,2,B,2.8,C,2,2.96,41,43,43,40.2,38,0,0,F,Private,Plus Two
+1,Health and Allide,Medical Labatory,3.68,A,3.6,A,3.6,A,3.6,A+,4,3.64,45,47,39,41,46.4,3.33,85,A-,Govt,Bachelor
+2,Health and Allide,Medical Labatory,3.75,A,3.6,B+,3.2,B+,3.2,B+,3.2,2.93,44,39,39,42,44,3.42,85,A-,Private,SLC
+3,Health and Allide,Medical Labatory,3.45,B+,3.2,C+,2.4,B,2.8,B,2.8,3.33,42,34,34,41,40.9,2.96,75,B,Private,SLC
+4,Health and Allide,Medical Labatory,3.7,B+,3.2,D+,1.6,A,3.6,A,3.6,3.73,41,33,33,43,39.4,2.99,75,B,Govt,Plus Two
+5,Health and Allide,Medical Labatory,3.5,B+,3.2,B+,3.2,B+,3.2,B+,3.2,3.13,44,40,38,43,43.9,3.32,85,A-,Govt,Master
+6,Health and Allide,Medical Labatory,3.6,A,3.6,B+,3.2,B,2.8,C,2,3.6,46,41,43,42,46.6,3.57,85,A-,Private,Plus Two
+7,Health and Allide,Medical Labatory,3.6,A,3.6,B,2.8,B+,3.2,B+,3.2,3.23,43,35,37,41,38.7,3.02,80,B+,Private,SLC
+8,Health and Allide,Medical Labatory,3.8,A,3.6,A,3.6,B+,3.2,B,2.8,3.39,43,41,40,42,45,3.36,85,A-,Private,Plus Two
+9,Health and Allide,Medical Labatory,3.55,B+,3.2,B,2.8,B+,3.2,C,2,2.28,46,40,40,45,42.5,3.33,85,A-,Private,SLC
+10,Health and Allide,Medical Labatory,3.2,B+,3.2,B,2.8,A,3.6,B+,3.2,3.33,42,35,38,44,39.7,3,75,B,Private,Plus Two
+11,Health and Allide,Medical Labatory,3.55,B,2.8,B+,3.2,C,2,B+,3.2,2.28,39,34,38,42,39.1,2.77,75,B,Private,Plus Two
+12,Health and Allide,Medical Labatory,2.85,B,2.8,B,2.8,C,2,A,3.6,3.05,35,39,36,42,39.3,2.69,70,B-,Private,SLC
+13,Health and Allide,Medical Labatory,3.55,B,2.8,C,2,B,2.8,B+,3.2,2.99,41,39,34,42,37.7,2.9,75,B,Govt,SLC
+14,Health and Allide,Medical Labatory,3.03,B+,3.2,B,2.8,C+,2.4,C+,2.4,3.65,46,42,39,45,42.4,3.48,85,A-,Private,Plus Two
+15,Health and Allide,Medical Labatory,3.6,B,2.8,C,2,B+,3.2,B,2.8,2.87,44,43,40,43,46.6,3.41,85,A-,Govt,Plus Two
+16,Health and Allide,Medical Labatory,3.2,C,2,B+,3.2,B,2.8,A,3.6,2.87,35,37,30,42,34.8,0,0,F,Govt,Plus Two
+17,Health and Allide,Medical Labatory,3.75,B+,3.2,B,2.8,B+,3.2,B+,3.2,2.93,42,39,41,42,45.6,3.32,85,A-,Govt,Master
+18,Health and Allide,Medical Labatory,3.4,B+,3.2,C+,2.4,C,2,B+,3.2,2.55,43,40,39,43,44.3,3.21,80,B+,Private,Plus Two
+19,Health and Allide,Medical Labatory,3.35,A,3.6,B,2.8,B,2.8,B+,3.2,2.48,42,40,43,42,42.6,3.36,85,A-,Private,Bachelor
+20,Health and Allide,Medical Labatory,3.4,B+,3.2,B,2.8,B,2.8,C+,2.4,2.17,43,46,42,44,44.5,3.55,85,A-,Govt,Bachelor
+21,Health and Allide,Medical Labatory,2.9,B,2.8,C+,2.4,B+,3.2,B,2.8,2.59,43,45,39,45,44,3.39,85,A-,Private,SLC
+22,Health and Allide,Medical Labatory,3.2,B+,3.2,B,2.8,C+,2.4,C,2,2.39,45,46,40,45,45.5,3.46,85,A-,Private,Plus Two
+23,Health and Allide,Medical Labatory,3.55,A,3.6,B+,3.2,B,2.8,C,2,2.96,44,46,42,44,45,3.57,85,A-,Govt,Master
+24,Health and Allide,Medical Labatory,3.55,A,3.6,C,2,B+,3.2,C+,2.4,3.12,48,46,40,45,47,3.54,85,A-,Govt,SLC
+25,Health and Allide,Medical Labatory,2.9,A,3.6,B,2.8,C+,2.4,C,2,2.79,44,46,39,45,45,3.32,85,A-,Private,Plus Two
+26,Health and Allide,Medical Labatory,2.9,C,2,B,2.8,B+,3.2,B+,3.2,3.5,45,47,43,45,46,3.69,85,A-,Private,Plus Two
+27,Health and Allide,Medical Labatory,3.35,B,2.8,C,2,C+,2.4,D+,1.6,2.61,43,45,42,45,44,3.49,85,A-,Govt,Plus Two
+28,Health and Allide,Medical Labatory,3.35,B+,3.2,D+,1.6,C,2,C,2,3.4,43,45,40,45,44,3.22,80,B+,Private,Master
+29,Health and Allide,Medical Labatory,3.55,B+,3.2,B,2.8,B,2.8,C+,2.4,3.07,48,46,39,44,47,3.7,85,A-,Private,Master
+30,Health and Allide,Medical Labatory,3.5,C+,2.4,C,2,B,2.8,B+,3.2,2.86,43,46,40,45,44.5,3.31,85,A-,Private,Plus Two
+31,Health and Allide,Medical Labatory,2.5,B,2.8,B+,3.2,B,2.8,B+,3.2,2.86,43,46,41,45,44.5,3.54,85,A-,Govt,SLC
+32,Health and Allide,Medical Labatory,3.3,B,2.8,B,2.8,B,2.8,B,2.8,2.97,47,46,45,45,46.5,3.45,85,A-,Private,Plus Two
+33,Health and Allide,Medical Labatory,3.55,A,3.6,B+,3.2,A,3.6,B,2.8,3.22,46,46,42,44,46,3.67,85,A-,Private,Plus Two
+34,Health and Allide,Medical Labatory,3.8,A,3.6,B+,3.2,A,3.6,B,2.8,3.22,44,46,43,44,45,3.6,85,A-,Private,Plus Two
+35,Health and Allide,Medical Labatory,3.25,B,2.8,D+,1.6,C+,2.4,C+,2.4,2.84,45,46,42,45,45.5,3.57,85,A-,Private,Plus Two
+36,Health and Allide,Medical Labatory,3.3,A,3.6,C,2,D+,1.6,D+,1.6,2.51,45,45,42,44,45,3.4,85,A-,Private,Bachelor
+37,Health and Allide,Medical Labatory,3.2,B+,3.2,C,2,C,2,B,2.8,2.53,46,47,43,43,46.5,3.69,85,A-,Govt,Plus Two
+38,Health and Allide,Medical Labatory,3.29,B,2.8,C+,2.4,A,3.6,B,2.8,2.19,46,45,41,45,45.5,3.69,85,A-,Govt,SLC
+39,Health and Allide,Medical Labatory,3.2,B+,3.2,B+,3.2,B+,3.2,C+,2.4,3.04,46,45,39,45,45.5,3.34,85,A-,Private,SLC
+40,Health and Allide,Medical Labatory,3.45,A,3.6,B,2.8,B+,3.2,B,2.8,2.96,45,46,41,45,45.5,3.66,85,A-,Private,SLC
+41,Health and Allide,Medical Labatory,3.65,B,2.8,C+,2.4,C+,2.4,D+,1.6,2.79,47,45,41,45,46,3.6,85,A-,Private,Plus Two
+42,Health and Allide,Medical Labatory,3.6,B+,3.2,B,2.8,B+,3.2,B,2.8,3.06,48,46,42,45,47,3.55,85,A-,Govt,Plus Two
+43,Health and Allide,Medical Labatory,2.3,B,2.8,C,2,C,2,B,2.8,2.8,44,46,38,45,45,3.61,85,A-,Govt,Plus Two
+44,Health and Allide,Medical Labatory,3.45,A,3.6,B+,3.2,C,2,C,2,2.76,44,45,40,45,44.5,3.3,80,B+,Govt,Plus Two
+45,Health and Allide,Medical Labatory,2.9,B,2.8,C+,2.4,A,3.6,B,2.8,3.06,45,47,41,45,46,3.46,85,A-,Govt,Bachelor
+46,Health and Allide,Medical Labatory,3.45,B,2.8,C+,2.4,C,2,B,2.8,2.79,45,46,37,45,45.5,3.63,85,A-,Govt,Bachelor
+47,Health and Allide,Medical Labatory,3.6,B+,3.2,B,2.8,A+,4,B+,3.2,2.55,45,46,38,45,45.5,3.57,85,A-,Govt,Bachelor
+48,Health and Allide,Medical Labatory,3.04,B+,3.2,B,2.8,C+,2.4,B+,3.2,2.51,44,46,39,45,45,3.64,85,A-,Govt,SLC
+1,Health and Allide,Public Health,3.6,A,3.6,A,3.6,A,3.6,A,3.6,3.26,47,45,45,41,40,3.84,90,A,Private,SLC
+2,Health and Allide,Public Health,3.29,A+,4,B+,3.2,A,3.6,B+,3.2,3.06,48,40,43,43,41,3.7,85,A-,Govt,Bachelor
+3,Health and Allide,Public Health,3.7,A,3.6,B+,3.2,A,3.6,B+,3.2,3.26,48,39,43,41,40,3.65,85,A-,Private,Plus Two
+4,Health and Allide,Public Health,3.65,A,3.6,B,2.8,A,3.6,B+,3.2,2.86,45,43,43,42,36,3.62,85,A-,Govt,Master
+5,Health and Allide,Public Health,3.55,B+,3.2,A,3.6,B+,3.2,B+,3.2,3.08,49,43,39,41,39,0,0,F,Private,Plus Two
+6,Health and Allide,Public Health,3.65,A,3.6,B+,3.2,B+,3.2,A,3.6,3.19,49,48,45,42,40,3.95,90,A,Private,Bachelor
+7,Health and Allide,Public Health,3.2,B+,3.2,A,3.6,B,2.8,C,2,2.8,40,36,38,41,37,2.99,75,B,Govt,Bachelor
+8,Health and Allide,Public Health,3,B+,3.2,C+,2.4,B,2.8,C+,2.4,3.06,38,33,39,42,34,2.89,75,B,Govt,Bachelor
+9,Health and Allide,Public Health,3.7,B+,3.2,C+,2.4,C+,2.4,C+,2.4,2.93,46,40,40,44,43,0,0,F,Private,Bachelor
+10,Health and Allide,Public Health,2.9,B,2.8,B,2.8,B+,3.2,A,3.6,3.09,44,45,41,43,33,3.54,85,A-,Govt,Bachelor
+11,Health and Allide,Public Health,3.5,B+,3.2,C+,2.4,B+,3.2,B,2.8,2.92,37,32,38,42,30,2.78,75,B,Govt,Bachelor
+12,Health and Allide,Public Health,2.95,B+,3.2,B,2.8,B,2.8,B+,3.2,2.91,44,42,41,41,30,3.05,80,B+,Govt,Bachelor
+13,Health and Allide,Public Health,2.95,B+,3.2,B,2.8,B,2.8,C,2,2.88,41,39,39,42,31,3.04,80,B+,Govt,Bachelor
+14,Health and Allide,Public Health,3.4,A,3.6,B+,3.2,B,2.8,B,2.8,2.71,42,44,38,42,33,3.15,80,B+,Govt,Bachelor
+15,Health and Allide,Public Health,3.65,B+,3.2,B+,3.2,A,3.6,A+,4,3.39,49,46,43,41,40,3.79,90,A,Private,Plus Two
+16,Health and Allide,Public Health,3.5,A,3.6,B+,3.2,B+,3.2,B,2.8,3.06,45,34,42,41,37,3.05,80,B+,Govt,Bachelor
+17,Health and Allide,Public Health,2.5,B,2.8,C,2,B,2.8,B+,3.2,3.2,47,43,40,41,40,3.37,85,A-,Govt,Bachelor
+18,Health and Allide,Public Health,3.7,A,3.6,C,2,A,3.6,B+,3.2,3.3,46,40,39,42,37,3.46,85,A-,Private,Bachelor
+19,Health and Allide,Public Health,2.8,B,2.8,C,2,A,3.6,B,2.8,3.6,46,46,41,42,31,3.42,85,A-,Private,SLC
+20,Health and Allide,Public Health,3.05,B,2.8,B,2.8,C+,2.4,B+,3.2,2.57,41,38,39,41,31,3.08,80,B+,Govt,SLC
+21,Health and Allide,Public Health,3.55,B+,3.2,B,2.8,A,3.6,B+,3.2,3.36,45,45,43,41,39,3.7,85,A-,Govt,SLC
+22,Health and Allide,Public Health,3.5,B+,3.2,B,2.8,B+,3.2,D+,1.6,3.26,41,36,38,41,33,2.94,75,B,Private,SLC
+23,Health and Allide,Public Health,3.55,A,3.6,A,3.6,B+,3.2,A,3.6,3.28,41,34,38,42,37,3.1,80,B+,Govt,SLC
+24,Health and Allide,Public Health,3.2,B,2.8,B+,3.2,A,3.6,A,3.6,3.6,39,47,43,40,39,3.53,85,A-,Private,SLC
+25,Health and Allide,Public Health,3.35,A,3.6,B+,3.2,B+,3.2,B+,3.2,3.31,36,46,42,41,36,3.46,85,A-,Private,SLC
+26,Health and Allide,Public Health,3.05,C+,2.4,C+,2.4,C,2,C,2,2.71,39,39,37,42,39,3.04,80,B+,Govt,SLC
+27,Health and Allide,Public Health,3.6,B+,3.2,B+,3.2,B,2.8,B,2.8,2.86,36,43,38,42,36,2.96,75,B,Govt,SLC
+28,Health and Allide,Public Health,3.4,A,3.6,A,3.6,A,3.6,B+,3.2,3.26,39,31,38,42,39,2.5,70,B-,Govt,SLC
+29,Health and Allide,Public Health,3.2,B,2.8,B+,3.2,A,3.6,B+,3.2,2.4,41,33,39,44,41,3.21,80,B+,Private,SLC
+30,Health and Allide,Public Health,3.75,A,3.6,B,2.8,B,2.8,B,2.8,2.88,33,33,38,41,33,2.75,75,B,Govt,SLC
+31,Health and Allide,Public Health,3.7,B+,3.2,B+,3.2,B,2.8,B,2.8,2.93,36,34,38,43,36,3.15,80,B+,Private,Plus Two
+32,Health and Allide,Public Health,3.9,A,3.6,A,3.6,A,3.6,A,3.6,3.45,41,43,42,41,42,3.75,90,A,Private,Bachelor
+33,Health and Allide,Public Health,3.1,B+,3.2,B+,3.2,B+,3.2,B,2.8,2.91,32,43,42,41,34,0,0,F,Private,Plus Two
+34,Health and Allide,Public Health,3.7,A+,4,B+,3.2,A+,4,A,3.6,3.26,46,38,41,42,42,3.49,85,A-,Private,Master
+35,Health and Allide,Public Health,3.85,B+,3.2,B+,3.2,C,2,C,2,3.13,45,44,43,41,46,3.66,85,A-,Govt,SLC
+36,Health and Allide,Public Health,3.6,B+,3.2,B+,3.2,A,3.6,A,3.6,3.32,45,45,41,40,46,3.51,85,A-,Govt,Plus Two
+37,Health and Allide,Public Health,3.2,B,2.8,C,2,A,3.6,A,3.6,2.4,46,45,42,40,47,3.55,85,A-,Private,Plus Two
+38,Health and Allide,Public Health,2.8,B,2.8,C,2,A,3.6,B+,3.2,3.2,44,44,40,42,44,3.58,85,A-,Private,Plus Two
+39,Health and Allide,Public Health,3.1,B+,3.2,B,2.8,C,2,C,2,2.62,45,45,40,41,46,3.45,85,A-,Private,SLC
+40,Health and Allide,Public Health,3.8,B+,3.2,C,2,C+,2.4,C,2,2.93,45,45,41,39,46,3.45,85,A-,Govt,SLC
+41,Health and Allide,Public Health,3.3,B,2.8,A,3.6,C,2,C,2,2.83,45,45,43,40,47,3.54,85,A-,Govt,SLC
+42,Health and Allide,Public Health,3.06,A,3.6,C+,2.4,B+,3.2,B,2.8,3.55,44,44,39,40,44,3.4,85,A-,Private,SLC
+43,Health and Allide,Public Health,3.5,A,3.6,C,2,C+,2.4,C+,2.4,2.79,44,45,41,42,46,3.49,85,A-,Govt,SLC
+44,Health and Allide,Public Health,3.2,A,3.6,B,2.8,B+,3.2,C,2,3.2,45,45,40,41,44,3.33,85,A-,Private,SLC
+45,Health and Allide,Public Health,3.75,A,3.6,A,3.6,A+,4,A,3.6,3.49,46,45,45,42,48,3.66,85,A-,Private,SLC
+46,Health and Allide,Public Health,3.6,A,3.6,B,2.8,B+,3.2,B,2.8,2.93,44,45,42,41,46,3.55,85,A-,Govt,SLC
+47,Health and Allide,Public Health,3.8,B+,3.2,A,3.6,A+,4,A+,4,3.33,45,45,43,41,44,3.61,85,A-,Govt,SLC
+48,Health and Allide,Public Health,3.2,B,2.8,B,2.8,B,2.8,A,3.6,2.85,45,45,40,41,45,3.43,85,A-,Govt,SLC
+49,Health and Allide,Public Health,3.45,B+,3.2,B,2.8,B,2.8,B,2.8,3.33,45,44,39,41,46,3.49,85,A-,Private,Plus Two
+50,Health and Allide,Public Health,3.35,A,3.6,B,2.8,C+,2.4,A,3.6,3.13,45,45,42,42,46,3.55,85,A-,Private,PHD
+51,Health and Allide,Public Health,3.2,B,2.8,C,2,B+,3.2,B+,3.2,3.2,44,45,40,39,46,3.34,85,A-,Private,SLC
+52,Health and Allide,Public Health,3.7,B+,3.2,B+,3.2,B,2.8,B+,3.2,3.06,44,44,42,41,44,3.58,85,A-,Govt,Bachelor
+53,Health and Allide,Public Health,3.7,B+,3.2,B+,3.2,B,2.8,B+,3.2,3.06,44,45,41,40,47,3.48,85,A-,Govt,SLC
+54,Health and Allide,Public Health,3.7,B+,3.2,B+,3.2,B+,3.2,C+,2.4,2.96,43,43,40,40,44,3.42,85,A-,Govt,SLC
+55,Health and Allide,Public Health,3.5,B+,3.2,B,2.8,B,2.8,B,2.8,3.05,46,45,43,42,46,3.64,85,A-,Private,Plus Two
+56,Health and Allide,Public Health,3.06,B+,3.2,B,2.8,B,2.8,B,2.8,2.39,44,44,43,42,47,3.61,85,A-,Govt,Bachelor
+57,Health and Allide,Public Health,2.93,A,3.6,C+,2.4,B,2.8,C+,2.4,2.86,45,44,40,40,44,3.43,85,A-,Govt,SLC
+58,Health and Allide,Public Health,3.55,A,3.6,B+,3.2,B,2.8,C,2,2.86,44,45,42,41,45,3.6,85,A-,Govt,SLC
+59,Health and Allide,Public Health,3.7,A,3.6,B+,3.2,C,2,B,2.8,2.84,44,44,42,42,45,3.6,85,A-,Private,Bachelor
+60,Health and Allide,Public Health,3.2,C+,2.4,C+,2.4,C+,2.4,C,2,2.53,45,43,38,41,46,3.42,85,A-,Private,Bachelor
+61,Health and Allide,Public Health,3.34,A,3.6,B+,3.2,B,2.8,B+,3.2,2.93,46,45,44,44,44,3.66,85,A-,Private,Bachelor
+62,Health and Allide,Public Health,3.8,A,3.6,B+,3.2,A,3.6,A,3.6,2.86,44,45,42,40,46,3.54,85,A-,Govt,Plus Two
+63,Health and Allide,Public Health,3.3,B,2.8,C+,2.4,B,2.8,C,2,2.86,45,45,41,42,46,3.51,85,A-,Govt,Master
+64,Health and Allide,Public Health,3.75,A,3.6,B+,3.2,B+,3.2,B,2.8,3.13,45,45,44,41,44,3.55,85,A-,Private,Bachelor
+65,Health and Allide,Public Health,2.4,B,2.8,C,2,A,3.6,B+,3.2,3.2,46,45,45,45,48,3.85,90,A,Govt,Master
+66,Health and Allide,Public Health,3.15,B,2.8,C,2,D+,1.6,D+,1.6,2.93,44,44,40,40,45,3.48,85,A-,Govt,SLC
+67,Health and Allide,Public Health,3.45,A,3.6,B+,3.2,C,2,C,2,2.99,46,45,41,39,46,3.45,85,A-,Govt,SLC
+68,Health and Allide,Public Health,3.05,B,2.8,C,2,D+,1.6,D+,1.6,2.42,46,45,43,41,46,3.49,85,A-,Private,Plus Two
+69,Health and Allide,Public Health,3.4,B+,3.2,C+,2.4,B,2.8,C+,2.4,2.95,46,45,45,42,46,3.72,90,A,Private,Bachelor
+70,Health and Allide,Public Health,3.55,B+,3.2,B,2.8,B+,3.2,B,2.8,2.98,46,45,43,42,45,3.66,85,A-,Private,SLC
+71,Health and Allide,Public Health,3.65,B+,3.2,B,2.8,C+,2.4,C+,2.4,2.93,43,45,41,42,44,3.48,85,A-,Govt,Bachelor
+72,Health and Allide,Public Health,3.2,B,2.8,C,2,C,2,B,2.8,2.4,46,45,42,42,46,3.49,85,A-,Private,SLC
+73,Health and Allide,Public Health,3.8,B,2.8,B,2.8,B,2.8,C,2,2.88,44,45,44,42,46,3.66,85,A-,Govt,Plus Two
+1,Health and Allide,Bachelor of Physiotherapy,3.7,A,3.6,A,3.6,A,3.6,A,3.6,3.19,48,48,35,47,45,3.87,90,A,Govt,SLC
+2,Health and Allide,Bachelor of Physiotherapy,3.55,B,2.8,B+,3.2,B,2.8,B,2.8,3.11,45,45,36,46,40,3.69,85,A-,Govt,Plus Two
+3,Health and Allide,Bachelor of Physiotherapy,3.65,B+,3.2,B,2.8,C,2,C,2,2.32,46,46,34,46,45,3.48,85,A-,Private,Plus Two
+4,Health and Allide,Bachelor of Physiotherapy,3.65,A,3.6,A,3.6,B,2.8,B,2.8,2.91,46,44,36,46,40,3.43,85,A-,Govt,Plus Two
+5,Health and Allide,Bachelor of Physiotherapy,3.55,A,3.6,B+,3.2,B,2.8,A,3.6,3.15,46,46,36,47,41,3.77,90,A,Private,SLC
+6,Health and Allide,Bachelor of Physiotherapy,3.15,B,2.8,B,2.8,C,2,B,2.8,2.93,45,44,34,46,39,3.49,85,A-,Govt,SLC
+7,Health and Allide,Bachelor of Physiotherapy,3.75,B+,3.2,B,2.8,B+,3.2,B,2.8,2.71,45,46,38,47,40,3.37,85,A-,Govt,Plus Two
+8,Health and Allide,Bachelor of Physiotherapy,3.5,A,3.6,A,3.6,A+,4,B,2.8,3.33,47,45,38,47,46,3.69,85,A-,Private,Master
+9,Health and Allide,Bachelor of Physiotherapy,3.6,A,3.6,B,2.8,A,3.6,A,3.6,3.36,46,45,37,47,45,3.4,85,A-,Private,SLC
+10,Health and Allide,Bachelor of Physiotherapy,3.35,B,2.8,B,2.8,C,2,C,2,2.82,46,47,35,46,45,3.31,85,A-,Govt,Plus Two
+11,Health and Allide,Bachelor of Physiotherapy,3.6,B+,3.2,B,2.8,B+,3.2,A+,4,2.86,46,45,38,46,40,3.51,85,A-,Govt,Plus Two
+12,Health and Allide,Bachelor of Physiotherapy,3.75,A,3.6,B,2.8,A,3.6,A,3.6,3.13,48,47,33,47,42,3.73,90,A,Private,Master
+13,Health and Allide,Bachelor of Physiotherapy,3.65,A,3.6,B,2.8,A,3.6,C,2,2.99,45,43,31,46,42,2.93,75,B,Private,SLC
+14,Health and Allide,Bachelor of Physiotherapy,3.5,B,2.8,C+,2.4,B+,3.2,C,2,2.79,45,44,28,47,39,3.03,80,B+,Private,Master
+15,Health and Allide,Bachelor of Physiotherapy,3.55,B+,3.2,B,2.8,C,2,B+,3.2,2.77,46,45,40,46,44,3.77,90,A,Private,SLC
+16,Health and Allide,Bachelor of Physiotherapy,3.75,A,3.6,B,2.8,C+,2.4,B+,3.2,2.86,46,46,34,47,43,3.59,85,A-,Govt,Bachelor
+17,Health and Allide,Bachelor of Physiotherapy,3.8,A,3.6,A,3.6,A,3.6,A,3.6,3.13,48,48,40,47,45,3.92,90,A,Govt,Plus Two
+18,Health and Allide,Bachelor of Physiotherapy,2.95,B,2.8,C,2,C,2,B,2.8,2.06,44,44,34,46,43,2.53,70,B-,Private,Plus Two
+19,Health and Allide,Bachelor of Physiotherapy,3.4,B+,3.2,B,2.8,C,2,A,3.6,2.76,45,45,36,46,41,3.29,80,B+,Private,SLC
+20,Health and Allide,Bachelor of Physiotherapy,3.65,A,3.6,B+,3.2,C,2,C,2,2.89,45,46,33,47,44,3.4,85,A-,Govt,Master
+21,Health and Allide,Bachelor of Physiotherapy,3.75,A,3.6,C+,2.4,B,2.8,B,2.8,3.06,44,44,41,39,39,3.31,85,A-,Private,Master
+22,Health and Allide,Bachelor of Physiotherapy,3.85,A,3.6,B+,3.2,A,3.6,A,3.6,3.28,43,42,36,38,34,0,0,F,Private,Bachelor
+23,Health and Allide,Bachelor of Physiotherapy,3.45,B+,3.2,A,3.6,B+,3.2,A,3.6,3.13,45,44,42,40,40,3.24,80,B+,Govt,SLC
+24,Health and Allide,Bachelor of Physiotherapy,3.8,A,3.6,A,3.6,A+,4,A,3.6,3.46,45,47,47,41,44,3.61,85,A-,Private,Bachelor
+25,Health and Allide,Bachelor of Physiotherapy,3.95,A,3.6,A,3.6,A+,4,A,3.6,3.46,43,44,49,44,42,3.74,90,A,Govt,Master
+26,Health and Allide,Bachelor of Physiotherapy,3.7,A,3.6,A,3.6,B+,3.2,A,3.6,2.93,43,44,44,38,42,2.85,75,B,Private,Bachelor
+27,Health and Allide,Bachelor of Physiotherapy,3.5,B,2.8,B+,3.2,B,2.8,C,2,2.69,44,43,36,38,34,2.24,65,C+,Private,Master
+28,Health and Allide,Bachelor of Physiotherapy,3.6,B+,3.2,B,2.8,B+,3.2,C+,2.4,2.82,45,45,46,40,39,2.91,75,B,Private,Bachelor
+29,Health and Allide,Bachelor of Physiotherapy,3.55,B+,3.2,B,2.8,C,2,B,2.8,2.31,41,42,37,38,38,2.58,70,B-,Govt,SLC
+30,Health and Allide,Bachelor of Physiotherapy,3.75,A+,4,A+,4,A,3.6,B+,3.2,3.53,43,44,44,40,48,3.65,85,A-,Private,Bachelor
+31,Health and Allide,Bachelor of Physiotherapy,3.8,A,3.6,B+,3.2,A,3.6,B,2.8,3.19,43,44,44,38,44,3.37,85,A-,Private,Plus Two
+32,Health and Allide,Bachelor of Physiotherapy,3.56,B+,3.2,B,2.8,B+,3.2,B+,3.2,2.73,42,43,39,40,39,3.12,80,B+,Private,Bachelor
+33,Health and Allide,Bachelor of Physiotherapy,3.6,B,2.8,A,3.6,A,3.6,C,2,2.89,41,42,32,38,36,2.16,65,C+,Govt,SLC
+34,Health and Allide,Bachelor of Physiotherapy,3.75,A,3.6,A,3.6,B+,3.2,A,3.6,3.53,44,46,44,42,39,3.48,85,A-,Private,Master
+35,Health and Allide,Bachelor of Physiotherapy,2.4,B,2.8,C,2,B,2.8,B,2.8,2.8,42,43,41,38,37,2.84,75,B,Private,Bachelor
+1,Health and Allide,BSC Nursing,3.2,A,3.6,B,2.8,B,2.8,C,2,2.4,42,36,43,42,36,3.46,85,A-,Govt,SLC
+2,Health and Allide,BSC Nursing,3.6,B,2.8,C,2,B,2.8,A,3.6,2.8,42,35.5,43,42,35.5,3.32,85,A-,Private,Bachelor
+3,Health and Allide,BSC Nursing,3.6,B,2.8,B+,3.2,B+,3.2,B,2.8,2.8,40,35.5,40,40,35.5,3.52,85,A-,Private,Plus Two
+4,Health and Allide,BSC Nursing,3.5,B+,3.2,B,2.8,C,2,C+,2.4,2.99,41,35.5,42,41,35.5,3.29,80,B+,Private,Bachelor
+5,Health and Allide,BSC Nursing,3.5,A,3.6,B+,3.2,B,2.8,B+,3.2,3.33,42,35.5,42,42,35.5,3.69,85,A-,Govt,Plus Two
+6,Health and Allide,BSC Nursing,3.5,A,3.6,B,2.8,C+,2.4,B+,3.2,3.26,41,35.5,38,41,35.5,3.49,85,A-,Private,Master
+7,Health and Allide,BSC Nursing,3.05,B,2.8,C,2,C,2,C+,2.4,2.66,44,35,44,44,35,3.22,80,B+,Private,SLC
+8,Health and Allide,BSC Nursing,3.6,A,3.6,B,2.8,B+,3.2,B,2.8,3.2,40,36,42,40,36,3.3,80,B+,Private,Master
+9,Health and Allide,BSC Nursing,2.4,B,2.8,C,2,A,3.6,B,2.8,2.5,42,35.5,41,42,35.5,3.82,90,A,Private,SLC
+10,Health and Allide,BSC Nursing,3.65,A,3.6,B,2.8,B,2.8,B+,3.2,3.36,41,35,44,41,35,3.7,85,A-,Govt,Bachelor
+11,Health and Allide,BSC Nursing,3.2,B+,3.2,B,2.8,C,2,B,2.8,2.4,45,35.5,45,45,35.5,3.31,85,A-,Govt,Plus Two
+12,Health and Allide,BSC Nursing,2.8,B,2.8,B+,3.2,C,2,B,2.8,2.4,40,35,40,40,35,3.54,85,A-,Private,Plus Two
+13,Health and Allide,BSC Nursing,3.6,A,3.6,C+,2.4,C,2,B+,3.2,2.99,39,35.5,41,39,35.5,3.48,85,A-,Private,SLC
+14,Health and Allide,BSC Nursing,3.45,B+,3.2,B,2.8,B,2.8,B+,3.2,3.26,41,35,43,41,35,3.45,85,A-,Govt,Master
+15,Health and Allide,BSC Nursing,3.6,A,3.6,B+,3.2,B+,3.2,C,2,2.4,42,34.5,45,42,34.5,3.34,85,A-,Private,Master
+16,Health and Allide,BSC Nursing,3.6,A,3.6,B+,3.2,A,3.6,B,2.8,3.2,42,35,43,42,35,3.7,85,A-,Private,Bachelor
+17,Health and Allide,BSC Nursing,3.6,B+,3.2,B+,3.2,A,3.6,B+,3.2,3.19,42,35.5,41,42,35.5,3.67,85,A-,Govt,SLC
+18,Health and Allide,BSC Nursing,3.6,B+,3.2,A,3.6,B+,3.2,B,2.8,3.2,42,35,42,42,35,3.6,85,A-,Private,Bachelor
+19,Health and Allide,BSC Nursing,3.65,B+,3.2,C,2,C,2,C+,2.4,2.86,42,35.5,44,42,35.5,3.57,85,A-,Govt,Master
+20,Health and Allide,BSC Nursing,3.6,C+,2.4,B,2.8,B+,3.2,B+,3.2,2.99,47,35,35,47,35,3.4,85,A-,Private,Bachelor
+21,Health and Allide,BSC Nursing,3.75,B+,3.2,B+,3.2,B,2.8,A,3.6,3.39,46,35.5,36,46,35.5,3.69,85,A-,Private,Master
+22,Health and Allide,BSC Nursing,3.7,A,3.6,B,2.8,B+,3.2,A,3.6,3.06,46,35.5,34,46,35.5,3.69,85,A-,Private,Bachelor
+23,Health and Allide,BSC Nursing,3.65,A+,4,B,2.8,B,2.8,B,2.8,3.13,46,36,46,46,36,3.34,85,A-,Govt,SLC
+24,Health and Allide,BSC Nursing,3.35,A,3.6,B,2.8,B,2.8,B,2.8,2.93,47,36,47,47,36,3.66,85,A-,Private,Bachelor
+25,Health and Allide,BSC Nursing,3.5,A,3.6,C+,2.4,C,2,B+,3.2,3.06,47,35,47,47,35,3.6,85,A-,Private,Plus Two
+26,Health and Allide,BSC Nursing,3.5,B+,3.2,C+,2.4,C+,2.4,B,2.8,2.97,47,35.5,47,47,35.5,3.48,85,A-,Private,Bachelor
+27,Health and Allide,BSC Nursing,3.2,B,2.8,B+,3.2,B+,3.2,C,2,2.8,47,35.5,47,47,35.5,3.45,85,A-,Govt,SLC
+28,Health and Allide,BSC Nursing,3.45,A,3.6,B+,3.2,B+,3.2,B+,3.2,2.84,46,35.5,46,46,35.5,3.49,85,A-,Private,Master
+29,Health and Allide,BSC Nursing,3.6,A,3.6,B+,3.2,B,2.8,C,2,3.2,46,36,46,46,36,3.72,90,A,Private,Bachelor
+30,Health and Allide,BSC Nursing,3.2,B+,3.2,C,2,C,2,C,2,2.77,47,34.5,47,47,34.5,3.66,85,A-,Govt,SLC
+31,Health and Allide,BSC Nursing,3.5,B+,3.2,C+,2.4,B,2.8,B,2.8,2.93,46,35.5,46,46,35.5,3.48,85,A-,Private,Bachelor
+32,Health and Allide,BSC Nursing,3.75,B,2.8,C+,2.4,C,2,A,3.6,3.06,47,35.5,47,47,35.5,3.49,85,A-,Private,Plus Two
+33,Health and Allide,BSC Nursing,3.8,B+,3.2,C+,2.4,A,3.6,A,3.6,3.26,46,36,46,46,36,3.66,85,A-,Private,Bachelor
+34,Health and Allide,BSC Nursing,3.35,B+,3.2,C,2,C,2,C+,2.4,2.64,47,36,47,47,36,3.87,90,A,Govt,SLC
+35,Health and Allide,BSC Nursing,3.6,B+,3.2,C+,2.4,C,2,B,2.8,2.93,47,35.5,47,47,35.5,3.69,85,A-,Private,Master
+36,Health and Allide,BSC Nursing,3.2,B,2.8,A,3.6,B,2.8,B+,3.2,2.4,46,35,46,46,35,3.48,85,A-,Govt,Plus Two
+37,Health and Allide,BSC Nursing,3.55,B+,3.2,B,2.8,B,2.8,B,2.8,2.93,46,35,46,46,35,3.43,85,A-,Private,Master
+38,Health and Allide,BSC Nursing,3.7,B,2.8,B,2.8,C+,2.4,B+,3.2,2.86,47,35.5,47,47,35.5,3.77,90,A,Private,SLC
+38,Health and Allide,BSC Nursing,3.65,A,3.6,B+,3.2,B+,3.2,B,2.8,3.42,39,35.5,39,39,35.5,3.69,85,A-,Private,Master
+1,Management,Bussnicess Adamination,3.2,C+,2.4,B,2.8,B,2.8,B,2.8,2.72,47,45,46,42,44,3.8,90,A,Private,SLC
+2,Management,Bussnicess Adamination,3.35,B,2.8,B,2.8,B,2.8,B+,3.2,3.15,41,40,36,36,35,2.72,75,B,Govt,Bachelor
+3,Management,Bussnicess Adamination,3,B+,3.2,A+,4,B,2.8,A+,4,3.54,47,48,46,34,43.5,3.6,85,A-,Govt,Plus Two
+4,Management,Bussnicess Adamination,3.75,A,3.6,B+,3.2,B,2.8,B+,3.2,3.31,48,48,43,40,43.5,3.8,90,A,Private,Plus Two
+5,Management,Bussnicess Adamination,3.55,C+,2.4,B+,3.2,B,2.8,C+,2.4,2.83,0,0,0,0,0,0,0,F,Private,SLC
+6,Management,Bussnicess Adamination,3.7,B+,3.2,A+,4,B+,3.2,A,3.6,3.35,45,46,40,37,42,3.2,80,B+,Govt,Master
+7,Management,Bussnicess Adamination,3.7,B+,3.2,A+,4,C+,2.4,A+,4,3.36,45,49,45,40,43,3.68,85,A-,Private,Master
+8,Management,Bussnicess Adamination,3.1,B+,3.2,B+,3.2,D+,1.6,B,2.8,2.69,46,40,38,33,41,2.86,75,B,Private,Bachelor
+9,Management,Bussnicess Adamination,3.1,B,2.8,B+,3.2,A,3.6,A,3.6,3.46,43,44,38,38,38.5,2.92,75,B,Govt,SLC
+10,Management,Bussnicess Adamination,3.55,B+,3.2,A+,4,B+,3.2,A,3.6,3.36,46,49,46,45,42.5,3.94,90,A,Private,Bachelor
+11,Management,Bussnicess Adamination,3.6,B+,3.2,A+,4,B,2.8,A,3.6,3.36,43,45,45,42,44.5,3.68,85,A-,Govt,Master
+12,Management,Bussnicess Adamination,3.5,B,2.8,B+,3.2,B+,3.2,B+,3.2,3.2,48,49,46,44,48,3.94,90,A,Private,Bachelor
+13,Management,Bussnicess Adamination,3.55,B+,3.2,A+,4,B,2.8,B,2.8,3.01,49,40,37,43,44.5,1.71,60,C,Private,Master
+14,Management,Bussnicess Adamination,3.25,C+,2.4,A,3.6,C+,2.4,A,3.6,2.88,40,41,42,43,43.5,3.34,85,A-,Private,Bachelor
+15,Management,Bussnicess Adamination,3.4,B,2.8,A,3.6,C+,2.4,B+,3.2,3.14,45,46,45,35,38,3.32,85,A-,Govt,SLC
+16,Management,Bussnicess Adamination,3.4,C,2,B,2.8,B+,3.2,B+,3.2,2.84,35,40,38,32,36,2.46,70,B-,Govt,SLC
+17,Management,Bussnicess Adamination,3.45,B,2.8,B+,3.2,B,2.8,B+,3.2,2.96,47,37,37,30,35,2.54,70,B-,Private,Master
+18,Management,Bussnicess Adamination,3.55,C+,2.4,A+,4,B+,3.2,B+,3.2,3.12,48,49,45,31,40,3.68,85,A-,Private,Master
+19,Management,Bussnicess Adamination,3.2,B+,3.2,B+,3.2,B+,3.2,B,2.8,3.59,46,40,40,35,35,0,0,F,Private,Bachelor
+20,Management,Bussnicess Adamination,3.5,B+,3.2,A,3.6,B+,3.2,A,3.6,3.44,45,38,40,32,38,0,0,F,Private,SLC
+21,Management,Bussnicess Adamination,3.4,D+,1.6,C,2,B,2.8,C+,2.4,2.28,47,46,49,40,48,3.68,85,A-,Govt,Plus Two
+22,Management,Bussnicess Adamination,3.55,C,2,B,2.8,B+,3.2,C,2,2.33,40,40,26,29,36,2.5,70,B-,Private,Master
+23,Management,Bussnicess Adamination,3.45,B,2.8,B,2.8,C,2,A,3.6,2.99,40,40,30,27,35.5,0,0,F,Govt,Bachelor
+24,Management,Bussnicess Adamination,3.3,B,2.8,A,3.6,A,3.6,A,3.6,3.36,46,46,37,35,39,2.72,75,B,Private,Bachelor
+25,Management,Bussnicess Adamination,3.55,B+,3.2,A,3.6,C,2,C+,2.4,2.72,45,42,42,34,42,3.34,85,A-,Govt,Plus Two
+26,Management,Bussnicess Adamination,3.2,B+,3.2,A,3.6,B,2.8,A+,4,3.12,48,46,40,36,45.5,1.6,55,C-,Govt,Master
+27,Management,Bussnicess Adamination,3.45,B+,3.2,A,3.6,B,2.8,B,2.8,2.71,0,0,0,0,0,0,0,F,Private,Master
+28,Management,Bussnicess Adamination,3.5,C+,2.4,A+,4,C+,2.4,B+,3.2,2.88,43,46,38,33,35,0,0,F,Private,Bachelor
+29,Management,Bussnicess Adamination,2.95,B,2.8,A,3.6,C,2,C+,2.4,2.64,40,45,37,31,35,2.34,70,B-,Private,Plus Two
+30,Management,Bussnicess Adamination,3.55,B+,3.2,A+,4,B+,3.2,A,3.6,3.44,45,47,41,37,42,3.14,80,B+,Private,Bachelor
+31,Management,Bussnicess Adamination,3.4,B+,3.2,A,3.6,B,2.8,B+,3.2,3.04,46,47,40,40,44,3.54,85,A-,Govt,SLC
+32,Management,Bussnicess Adamination,3.5,B,2.8,C,2,B,2.8,A,3.6,3.13,39,40,30,31,35,0,0,F,Private,Master
+33,Management,Bussnicess Adamination,3.45,B+,3.2,B+,3.2,B,2.8,C+,2.4,2.88,45,31,35,33,37,0,0,F,Private,Bachelor
+34,Management,Bussnicess Adamination,3.6,C+,2.4,A,3.6,B+,3.2,B+,3.2,3.04,42,35,31,33,35,0,0,F,Govt,SLC
+35,Management,Bussnicess Adamination,3.3,B+,3.2,B+,3.2,B,2.8,B,2.8,3.07,43,40,40,36,40,2.92,75,B,Private,Bachelor
+36,Management,Bussnicess Adamination,3.35,B,2.8,A+,4,C+,2.4,B+,3.2,2.96,45,30,36,29,35,0,0,F,Private,Plus Two
+37,Management,Bussnicess Adamination,3.3,B,2.8,B+,3.2,C+,2.4,A,3.6,2.88,46,46,46,47,41,3.66,85,A-,Private,Bachelor
+38,Management,Bussnicess Adamination,3.4,B,2.8,B+,3.2,C+,2.4,B,2.8,2.84,45,40,38,32,38.5,2.32,70,B-,Govt,SLC
+39,Management,Bussnicess Adamination,3.14,C+,2.4,A,3.6,B+,3.2,A,3.6,3.2,27,40,35,0,0,0,0,F,Private,Master
+40,Management,Bussnicess Adamination,3.1,B+,3.2,A,3.6,A,3.6,A,3.6,3.45,45,49,45,43,46,3.88,90,A,Govt,SLC
+41,Management,Bussnicess Adamination,3.15,B+,3.2,B+,3.2,C+,2.4,B+,3.2,2.96,42,46,42,40,47,3.48,85,A-,Private,Master
+42,Management,Bussnicess Adamination,3.65,B,2.8,A+,4,B+,3.2,B+,3.2,3.28,47,30,37,34,36,2.54,70,B-,Private,Master
+43,Management,Bussnicess Adamination,3.35,B,2.8,B,2.8,C,2,C,2,3.36,42,35,35,32,44.5,1.72,60,C,Private,Bachelor
+44,Management,Bussnicess Adamination,3.45,B,2.8,B+,3.2,B+,3.2,A,3.6,3.12,43,40,38,36,40,0,0,F,Private,Master
+45,Management,Bussnicess Adamination,3.05,B,2.8,B+,3.2,B+,3.2,A,3.6,3.12,49,49,49,47,48,4,90,A,Private,Bachelor
+46,Management,Bussnicess Adamination,3.45,B+,3.2,B,2.8,B,2.8,B+,3.2,3.21,47,40,40,34,41,3.1,80,B+,Govt,SLC
+47,Management,Bussnicess Adamination,3.5,B,2.8,A,3.6,B,2.8,B+,3.2,3.12,45,41,45,36,40.5,3.6,85,A-,Private,Bachelor
+48,Management,Bussnicess Adamination,3.25,B+,3.2,B+,3.2,C+,2.4,B+,3.2,2.82,41,35,32,30,39,0,0,F,Private,Plus Two
+49,Management,Bussnicess Adamination,3.5,B+,3.2,B+,3.2,B+,3.2,B,2.8,3.11,48,42,37,36,45,3.14,80,B+,Private,Bachelor
+50,Management,Bussnicess Adamination,3.7,C+,2.4,B,2.8,A,3.6,B,2.8,2.99,47,49,45,46,50,4,90,A,Govt,SLC
+51,Management,Bussnicess Adamination,3.2,B+,3.2,A+,4,A,3.6,B+,3.2,3.36,48,42,42,40,47,3.8,90,A,Private,Master
+52,Management,Bussnicess Adamination,3.07,C,2,A,3.6,B+,3.2,B+,3.2,2.44,47,47,50,39,41,3.66,85,A-,Private,Bachelor
+53,Management,Bussnicess Adamination,3.85,B+,3.2,B+,3.2,B,2.8,B,2.8,2.96,49,36,36,38,46,3.8,90,A,Govt,SLC
+54,Management,Bussnicess Adamination,3.45,C+,2.4,A,3.6,B+,3.2,A+,4,3.15,45,30,43,37,37,3.18,80,B+,Private,Bachelor
+55,Management,Bussnicess Adamination,3.55,B+,3.2,A,3.6,B,2.8,B,2.8,2.96,40,30,32,31,40,2.02,65,C+,Private,Plus Two
+56,Management,Bussnicess Adamination,3.3,B+,3.2,A,3.6,C+,2.4,A,3.6,3.12,47,40,38,40,40,2.74,75,B,Private,Bachelor
+57,Management,Bussnicess Adamination,3.3,A,3.6,B,2.8,B+,3.2,C,2,2.96,0,0,0,0,0,0,0,F,Govt,SLC
+58,Management,Bussnicess Adamination,3.3,B+,3.2,B+,3.2,B,2.8,B,2.8,2.96,45,33,35,35,42.5,2.6,70,B-,Private,Master
+59,Management,Bussnicess Adamination,3.55,B+,3.2,A+,4,A,3.6,A+,4,3.52,47,49,49,43,47,3.8,90,A,Govt,Plus Two
+60,Management,Bussnicess Adamination,2.95,C+,2.4,B+,3.2,C+,2.4,B,2.8,2.74,43,32,35,31,38.5,2.38,70,B-,Private,Master
+61,Management,Bussnicess Adamination,3.35,B,2.8,A+,4,C+,2.4,B,2.8,3.04,44,35,43,40,39,0,0,F,Private,SLC
+62,Management,Bussnicess Adamination,3.05,C,2,C+,2.4,C+,2.4,B+,3.2,2.46,41,44,40,33,38.5,2.94,75,B,Private,Master
+63,Management,Bussnicess Adamination,3.1,B,2.8,A+,4,B,2.8,B+,3.2,3.19,44,46,40,38,39,2.8,75,B,Private,SLC
+64,Management,Bussnicess Adamination,3.5,C,2,B,2.8,B,2.8,B,2.8,2.71,47,47,46,43,46,3.88,90,A,Govt,Bachelor
+65,Management,Bussnicess Adamination,3.2,B,2.8,A+,4,B+,3.2,B,2.8,3.2,40,45,42,35,43.5,2.66,70,B-,Govt,Plus Two
+66,Management,Bussnicess Adamination,3.1,B,2.8,B+,3.2,A,3.6,B+,3.2,3.19,41,38,38,29,39.5,2.66,70,B-,Private,Plus Two
+67,Management,Bussnicess Adamination,2.7,B+,3.2,A+,4,B,2.8,B+,3.2,3.33,47,48,43,31,47,3.4,85,A-,Private,SLC
+68,Management,Bussnicess Adamination,2.75,B,2.8,B+,3.2,C+,2.4,A,3.6,3.02,43,35,40,38,39,0,0,F,Private,SLC
+69,Management,Bussnicess Adamination,3.5,B+,3.2,A+,4,A,3.6,A,3.6,3.44,44,42,42,33,39.5,3.28,80,B+,Private,SLC
+70,Management,Bussnicess Adamination,3.5,C+,2.4,A,3.6,B,2.8,A,3.6,3.11,44,41,38,35,39,3.14,80,B+,Govt,SLC
+71,Management,Bussnicess Adamination,3.55,B+,3.2,A+,4,B+,3.2,A,3.6,3.07,47,47,47,38,47,3.74,90,A,Govt,SLC
+72,Management,Bussnicess Adamination,3.15,C+,2.4,A,3.6,B,2.8,A,3.6,3.11,48,30,35,30,37.5,2.6,70,B-,Govt,SLC
+73,Management,Bussnicess Adamination,3.75,B+,3.2,A+,4,B+,3.2,A+,4,3.52,48,49,49,45,49,3.94,90,A,Private,SLC
+74,Management,Bussnicess Adamination,3.65,B+,3.2,A,3.6,B,2.8,A,3.6,3.12,38,35,27,27,38.5,1.7,55,C-,Govt,SLC
+75,Management,Bussnicess Adamination,3.2,A,3.6,B+,3.2,B,2.8,B+,3.2,3.21,42,45,38,29,35.5,0,0,F,Private,SLC
+76,Management,Bussnicess Adamination,3.4,C+,2.4,B,2.8,C+,2.4,B+,3.2,2.9,49,48,45,45,39.5,3.74,90,A,Private,SLC
+77,Management,Bussnicess Adamination,3.6,C+,2.4,B,2.8,C+,2.4,B+,3.2,2.9,47,46,38,44,45,3.26,80,B+,Private,SLC
+78,Management,Bussnicess Adamination,2.95,B,2.8,A+,4,B,2.8,A,3.6,3.2,43,46,40,37,36.5,2.74,75,B,Govt,SLC
+79,Management,Bussnicess Adamination,3.55,B,2.8,B+,3.2,B+,3.2,B+,3.2,3.04,47,33,33,35,37,2.94,75,B,Govt,SLC
+80,Management,Bussnicess Adamination,3.3,B,2.8,A,3.6,B,2.8,B+,3.2,3.43,45,48,43,41,48,3.6,85,A-,Govt,SLC
+81,Management,Bussnicess Adamination,3.45,B,2.8,B+,3.2,B+,3.2,B,2.8,3.01,44,35,25,0,36,0,0,F,Govt,SLC
+82,Management,Bussnicess Adamination,3.5,B,2.8,C+,2.4,C+,2.4,B,2.8,2.64,44,41,42,37,39,3.18,80,B+,Private,SLC
+83,Management,Bussnicess Adamination,3.5,B,2.8,A,3.6,B+,3.2,B+,3.2,3.12,44,41,40,32,38.5,2.74,75,B,Govt,SLC
+84,Management,Bussnicess Adamination,3.2,C,2,B,2.8,C,2,B,2.8,2.4,42,39,43,29,38.5,2.34,70,B-,Govt,SLC
+85,Management,Bussnicess Adamination,3.2,B,2.8,C,2,B+,3.2,C,2,2.4,47,35,40,40,38.5,0,0,F,Private,SLC
+86,Management,Bussnicess Adamination,2.9,B,2.8,A+,4,C+,2.4,B,2.8,2.88,42,48,46,31,40.5,2.82,75,B,Private,Bachelor
+87,Management,Bussnicess Adamination,3.4,B,2.8,C,2,C,2,C,2,3.29,45,48,40,33,48,3.6,85,A-,Private,Plus Two
+88,Management,Bussnicess Adamination,3.35,B,2.8,A,3.6,B,2.8,B,2.8,2.96,44,42,38,33,41.5,0,0,F,Private,Bachelor
+89,Management,Bussnicess Adamination,3.3,B+,3.2,B+,3.2,B+,3.2,B,2.8,3.01,40,39,30,37,35,0,0,F,Govt,SLC
+90,Management,Bussnicess Adamination,3.65,A,3.6,B,2.8,B+,3.2,B+,3.2,3.12,46,49,46,48,47,3.74,90,A,Private,SLC
+91,Management,Bussnicess Adamination,3.3,B+,3.2,B,2.8,B+,3.2,B,2.8,3.01,46,41,41,30,40.5,2.42,70,B-,Private,SLC
+92,Management,Bussnicess Adamination,3.35,B,2.8,B+,3.2,B,2.8,A,3.6,3.17,46,46,45,36,44.5,3.12,80,B+,Govt,SLC
+1,Management,Banking and Insurance,2.25,C,2,C+,2.4,D+,1.6,C,2,2.32,43,28,44,38,39,0,0,F,Private,SLC
+2,Management,Banking and Insurance,3.1,B,2.8,B,2.8,C,2,C,2,2.61,28,29,42,0,30,0,0,F,Private,SLC
+3,Management,Banking and Insurance,3.3,C,2,C,2,C,2,C,2,2.52,38,43,45,36,39,0,0,F,Govt,SLC
+4,Management,Banking and Insurance,2.75,B,2.8,A,3.6,B+,3.2,B,2.8,2.8,35,25,41,38,28,0,0,F,Govt,SLC
+5,Management,Banking and Insurance,3.1,B,2.8,B,2.8,C+,2.4,B,2.8,2.56,40,48,45,36,33,0,0,F,Private,SLC
+6,Management,Banking and Insurance,3.35,B+,3.2,B+,3.2,B+,3.2,B+,3.2,2.96,31,27,41,34,37,0,0,F,Govt,SLC
+7,Management,Banking and Insurance,3.2,C+,2.4,B+,3.2,B,2.8,B+,3.2,2.56,38,43,41,37,37,0,0,F,Govt,SLC
+8,Management,Banking and Insurance,3.05,B,2.8,C,2,B,2.8,C,2,2.44,43,43,42,32,29,0,0,F,Private,SLC
+9,Management,Banking and Insurance,2.9,C+,2.4,C,2,B,2.8,C+,2.4,2.4,47,27,43,36,37,0,0,F,Private,SLC
+10,Management,Banking and Insurance,3.75,C+,2.4,B,2.8,B,2.8,C+,2.4,2.71,47,39,45,44,42,3.28,80,B+,Private,SLC
+11,Management,Banking and Insurance,3.8,B,2.8,B+,3.2,B+,3.2,B,2.8,2.64,45,44,43,40,38,2.74,75,B,Private,SLC
+12,Management,Banking and Insurance,3.15,B,2.8,B+,3.2,B+,3.2,A,3.6,2.88,40,29,42,29,30,0,0,F,Private,SLC
+13,Management,Banking and Insurance,3.4,B,2.8,C,2,C,2,B,2.8,2.92,45,44,46,43,42,0,0,F,Private,SLC
+14,Management,Banking and Insurance,3.4,B,2.8,C,2,C,2,B,2.8,2.9,29,42,42,37,34,0,0,F,Private,Bachelor
+15,Management,Banking and Insurance,3.35,B,2.8,C,2,B,2.8,C,2,2.11,25,25,42,28,33,2.1,65,C+,Private,Plus Two
+16,Management,Banking and Insurance,3.35,B,2.8,C,2,B,2.8,B,2.8,2.8,40,44,46,41,38,3.54,85,A-,Private,Bachelor
+17,Management,Banking and Insurance,2.72,B,2.8,B,2.8,B,2.8,B+,3.2,2.42,40,39,42,43,39,0,0,F,Govt,SLC
+18,Management,Banking and Insurance,3.2,C+,2.4,B,2.8,C+,2.4,C+,2.4,2.16,26,25,42,31,23,0,0,F,Govt,SLC
+19,Management,Banking and Insurance,3.7,D+,1.6,C,2,B,2.8,C,2,3.32,42,43,46,39,38,0,0,F,Private,SLC
+20,Management,Banking and Insurance,3,C+,2.4,B,2.8,C+,2.4,B,2.8,2.16,42,43,46,41,37,0,0,F,Private,SLC
+21,Management,Banking and Insurance,3.2,C,2,B,2.8,C,2,C,2,3,41,38,45,33,33,0,0,F,Private,SLC
+22,Management,Banking and Insurance,3.1,C,2,C,2,B,2.8,B,2.8,3.1,40,47,44,40,33,3.4,85,A-,Govt,SLC
+23,Management,Banking and Insurance,3.6,B,2.8,B+,3.2,C+,2.4,B+,3.2,2.56,31,25,40,30,23,0,0,F,Govt,SLC
+24,Management,Banking and Insurance,3.6,B+,3.2,A,3.6,B+,3.2,A,3.6,2.96,43,28,44,36,36,2.1,65,C+,Private,Bachelor
+25,Management,Banking and Insurance,2.75,C+,2.4,B+,3.2,B,2.8,B+,3.2,2.64,39,38,45,34,29,0,0,F,Private,Plus Two
+26,Management,Banking and Insurance,4,B+,3.2,C+,2.4,B,2.8,C,2,2.79,47,40,44,45,36,0,0,F,Private,Bachelor
+27,Management,Banking and Insurance,3.4,A,3.6,C+,2.4,C,2,C,2,2.39,44,44,46,38,35,0,0,F,Govt,SLC
+28,Management,Banking and Insurance,3.55,A,3.6,C,2,B,2.8,C,2,2.35,42,40,43,38,37,1.9,60,C,Govt,SLC
+29,Management,Banking and Insurance,3.5,B,2.8,C,2,C,2,B,2.8,2.84,39,43,45,38,38,2.66,70,B-,Private,SLC
+30,Management,Banking and Insurance,3.45,A,3.6,A,3.6,A,3.6,A,3.6,3.04,47,45,46,45,45,3.94,90,A,Govt,SLC
+31,Management,Banking and Insurance,3.3,C,2,B,2.8,B,2.8,C,2,2.76,37,30,42,39,38,2.74,75,B,Govt,SLC
+32,Management,Banking and Insurance,3.45,B+,3.2,A,3.6,B+,3.2,A,3.6,3.28,39,31,45,42,39,0,0,F,Govt,SLC
+33,Management,Banking and Insurance,3.15,B+,3.2,A,3.6,B,2.8,A,3.6,2.64,35,25,41,37,28,0,0,F,Private,SLC
+34,Management,Banking and Insurance,3.52,B,2.8,A,3.6,B+,3.2,B+,3.2,2.96,48,25,41,40,36,0,0,F,Private,SLC
+35,Management,Banking and Insurance,3.45,B,2.8,C,2,B,2.8,B,2.8,2.75,33,24,43,25,23,0,0,F,Private,SLC
+36,Management,Banking and Insurance,3.45,B,2.8,C,2,A,3.6,B+,3.2,2.88,47,38,46,41,25,3.02,80,B+,Govt,SLC
+37,Management,Banking and Insurance,3.25,B+,3.2,C+,2.4,D+,1.6,C+,2.4,2.4,26,38,41,24,23,0,0,F,Private,SLC
+38,Management,Banking and Insurance,3.25,B,2.8,B+,3.2,C,2,A,3.6,3.12,30,29,42,23,23,0,0,F,Private,SLC
+39,Management,Banking and Insurance,2.95,C,2,B,2.8,B,2.8,C,2,2.91,41,30,45,36,36,0,0,F,Private,Bachelor
+40,Management,Banking and Insurance,3.3,A,3.6,B,2.8,C,2,C,2,2.57,42,38,45,37,35,1.9,60,C,Private,Plus Two
+41,Management,Banking and Insurance,3.2,B+,3.2,A,3.6,B,2.8,B+,3.2,2.88,43,44,43,38,32,2.84,75,B,Private,Bachelor
+42,Management,Banking and Insurance,2.5,C,2,B,2.8,C,2,C+,2.4,2.96,45,44,43,46,40,3.28,80,B+,Govt,SLC
+43,Management,Banking and Insurance,3.65,B+,3.2,A,3.6,B+,3.2,A+,4,3.12,42,38,42,38,38,2.56,70,B-,Govt,SLC
+44,Management,Banking and Insurance,3,B,2.8,B,2.8,B,2.8,A,3.6,2.66,42,35,41,40,35,0,0,F,Private,SLC
+45,Management,Banking and Insurance,2.82,B+,3.2,A,3.6,B+,3.2,B+,3.2,2.88,41,40,46,36,33,0,0,F,Private,SLC
+46,Management,Banking and Insurance,3.05,A,3.6,B,2.8,B+,3.2,B,2.8,3.04,43,28,44,38,39,0,0,F,Private,SLC
+1,Humanaties,Development Studies,2.3,C,2,D+,1.6,C+,2.4,D+,1.2,2.17,27,33,34,23,24,0,0,F,Private,SLC
+2,Humanaties,Development Studies,2.8,C,2,D+,1.6,C,2,D+,1.6,2.4,34,33,34,29,25,0,0,F,Private,Bachelor
+3,Humanaties,Development Studies,3.08,D+,1.6,D+,1.6,C,2,D+,1.6,2.4,28,35,37,43,36,1.8,60,C,Private,Plus Two
+4,Humanaties,Development Studies,3.55,C,2,D+,1.6,C,2,D+,1.6,2.81,40,39,40,35,45,3.26,80,B+,Private,Bachelor
+5,Humanaties,Development Studies,2.7,C,2,D+,1.6,D+,1.6,D+,1.6,2.86,32,37,40,42,25,0,0,F,Govt,SLC
+6,Humanaties,Development Studies,2.8,C,2,C,2,D+,1.6,C,2,2.4,43,42,44,48,41,0,0,F,Govt,SLC
+7,Humanaties,Development Studies,2.9,D+,1.6,D+,1.6,C,2,D+,1.6,2.17,0,0,0,0,0,0,0,F,Private,SLC
+8,Humanaties,Development Studies,2.9,D+,1.6,C,2,C,2,C,2,2.97,38,39,41,40,41,0,0,F,Govt,SLC
+9,Humanaties,Development Studies,2.3,D+,1.6,D+,1.6,C,2,D+,1.6,2.41,34,36,41,33,31,0,0,F,Private,SLC
+10,Humanaties,Development Studies,2.8,C,2,C,2,D+,1.6,C,2,2.88,40,39,42,39,40,2.68,70,B-,Private,SLC
+11,Humanaties,Development Studies,3.08,D+,1.6,C,2,D+,1.6,C,2,2.88,42,41,41,40,47,1.7,55,C-,Private,SLC
+12,Humanaties,Development Studies,3.1,C,2,D+,1.6,C,2,D+,1.6,2.4,26,41,42,42,30,0,0,F,Govt,SLC
+13,Humanaties,Development Studies,3.16,C,2,D+,1.6,C,2,D+,1.6,2.4,0,0,0,0,0,0,0,F,Private,Bachelor
+14,Humanaties,Development Studies,2.45,D+,1.6,C,2,D+,1.6,C,2,1.98,30,40,40,43,31,0,0,F,Private,Plus Two
+15,Humanaties,Development Studies,3.45,C,2,C,2,D+,1.6,C,2,2.8,35,35,25,28,30,1.7,55,C-,Private,Bachelor
+16,Humanaties,Development Studies,2.8,C,2,C,2,D+,1.6,C,2,2.19,45,38,40,41,41,2.78,75,B,Govt,SLC
+17,Humanaties,Development Studies,1.75,C,2,D+,1.6,D+,1.6,D+,1.6,1.98,30,38,34,39,25,0,0,F,Govt,SLC
+18,Humanaties,Development Studies,2.2,C,2,D+,1.6,C,2,D+,1.6,2.25,30,37,36,38,32,0,0,F,Govt,SLC
+19,Humanaties,Development Studies,2.3,C,2,D+,1.6,C,2,D+,1.6,2.67,30,35,37,36,35,0,0,F,Private,SLC
+20,Humanaties,Development Studies,3,C,2,C,2,B,2.8,C,2,3.01,45,40,42,47,45,3,75,B,Govt,SLC
+21,Humanaties,Development Studies,3.2,C,2,C,2,B,2.8,C,2,3.16,46,42,43,46,38,3.56,85,A-,Govt,SLC
+22,Humanaties,Development Studies,2.85,C,2,D+,1.6,C+,2.4,D+,1.6,2.51,43,40,40,46,40,1.71,60,C,Govt,SLC
+23,Humanaties,Development Studies,2.88,C,2,C,2,D+,1.6,C,2,2.82,32,40,35,35,42,0,0,F,Private,SLC
+24,Humanaties,Development Studies,2.7,C,2,C,2,D+,1.6,C,2,2.23,40,41,42,40,43,0,0,F,Private,SLC
+25,Humanaties,Development Studies,2.55,D+,1.6,C,2,D+,1.6,C,2,1.95,38,32,39,39,40,0,0,F,Private,SLC
+26,Humanaties,Development Studies,3.05,C,2,C,2,C,2,C,2,2.54,32,34,34,28,25,1.7,55,C-,Private,Bachelor
+27,Humanaties,Development Studies,3.2,C,2,C+,2.4,C,2,C+,2.4,2.8,42,35,40,35,23,0,0,F,Private,Plus Two
+28,Humanaties,Development Studies,2.75,C,2,C+,2.4,C,2,C+,2.4,2.68,30,39,36,41,37,0,0,F,Private,Bachelor
+29,Humanaties,Development Studies,3.3,C,2,C,2,C,2,C,2,2.12,30,25,38,28,40,1.7,55,C-,Govt,SLC
+30,Humanaties,Development Studies,2.2,C,2,C,2,C+,2.4,C,2,2.24,32,39,41,38,38,0,0,F,Govt,SLC
+31,Humanaties,Development Studies,2.4,C,2,C,2,C,2,C,2,2.53,38,36,40,34,33,0,0,F,Private,SLC
+32,Humanaties,Development Studies,2,C,2,C,2,C,2,C,2,2.4,40,39,40,41,38,0,0,F,Govt,SLC
+33,Humanaties,Development Studies,1.9,C,2,C,2,C+,2.4,C,2,2.06,41,38,35,37,35,0,0,F,Govt,SLC
+34,Humanaties,Development Studies,3.05,C,2,C,2,C,2,C,2,2.19,27,38,36,36,40,1.9,60,C,Private,SLC
+35,Humanaties,Development Studies,2.4,C,2,C,2,C+,2.4,C,2,2.8,35,25,40,28,41,0,0,F,Private,SLC
+36,Humanaties,Development Studies,3.2,B,2.8,C,2,C+,2.4,C,2,2.4,40,39,37,46,45,3.62,85,A-,Private,SLC
+37,Humanaties,Development Studies,3.1,C,2,C+,2.4,C,2,C+,2.4,2.61,26,25,39,31,23,0,0,F,Private,Bachelor
+38,Humanaties,Development Studies,2.35,C,2,D+,1.6,D+,1.6,D+,1.6,2.51,25,41,39,30,40,0,0,F,Private,Plus Two
+39,Humanaties,Development Studies,3.15,C,2,D+,1.6,C,2,D+,1.6,2.73,47,45,43,47,49,4,90,A,Private,Bachelor
+40,Humanaties,Development Studies,1.85,C,2,D+,1.6,C,2,D+,1.6,2.36,35,39,38,35,31,0,0,F,Govt,SLC
+41,Humanaties,Development Studies,2.45,C+,2.4,C,2,C,2,C,2,2.31,36,37,32,24,25,0,0,F,Govt,SLC
+1,Humanaties,B English and Communication,2.8,C,2,C,2,B,2.8,C,2,2,34,40,36,35,42,2.14,65,C+,Govt,SLC
+2,Humanaties,B English and Communication,2.7,C,2,B,2.8,C,2,B,2.8,3,39,41,37,39,40,2.26,65,C+,Private,SLC
+3,Humanaties,B English and Communication,2.7,C,2,C,2,C,2,C,2,2.4,45,42,36,38,44,2.34,70,B-,Govt,SLC
+4,Humanaties,B English and Communication,2.5,C,2,B,2.8,C,2,B,2.8,3.03,40,42,36,40,40,2.32,70,B-,Private,SLC
+5,Humanaties,B English and Communication,2.85,C,2,C,2,B,2.8,C,2,2.8,46,45,45,46,44,3.3,80,B+,Private,SLC
+6,Humanaties,B English and Communication,3.4,B,2.8,C+,2.4,C,2,C+,2.4,3.1,44,42,42,42,46,2.8,75,B,Private,SLC
+7,Humanaties,B English and Communication,2.58,B,2.8,B,2.8,C,2,B,2.8,2.95,0,0,0,0,0,0,0,F,Govt,SLC
+8,Humanaties,B English and Communication,3.68,B,2.8,B,2.8,C,2,B,2.8,3.15,45,42,41,41,45,2.98,75,B,Govt,SLC
+9,Humanaties,B English and Communication,3.4,D+,1.6,D+,1.6,C,2,D+,1.6,2.8,41,40,39,37,42,2.48,70,B-,Private,Bachelor
+10,Humanaties,B English and Communication,3.52,B,2.8,B,2.8,C,2,B,2.8,3.17,45,36,40,41,44,2.88,75,B,Private,Plus Two
+11,Humanaties,B English and Communication,2.5,C,2,C,2,B,2.8,C,2,2.2,45,44,42,43,43,2.82,75,B,Private,Bachelor
+12,Humanaties,B English and Communication,3.4,C,2,B,2.8,A,3.6,B,2.8,3.05,47,46,45,45,47,3.38,85,A-,Govt,SLC
+13,Humanaties,B English and Communication,3.35,C,2,B,2.8,C,2,B,2.8,2.62,42,43,44,43,44,3.06,80,B+,Govt,SLC
+14,Humanaties,B English and Communication,2.4,C,2,A,3.6,B,2.8,A,3.6,3.6,44,39,38,39,44,2.54,70,B-,Private,SLC
+15,Humanaties,B English and Communication,3.65,C,2,B,2.8,C,2,B,2.8,2.95,42,38,34,39,30,1.69,55,C-,Govt,SLC
+16,Humanaties,B English and Communication,2.8,C,2,C,2,B,2.8,C,2,2.89,43,43,38,42,43,2.4,70,B-,Govt,SLC
+17,Humanaties,B English and Communication,3.4,B,2.8,C,2,C,2,C,2,2.89,45,43,41,44,44,2.8,75,B,Govt,SLC
+18,Humanaties,B English and Communication,2.9,B+,3.2,B,2.8,C,2,B,2.8,2.34,40,38,33,35,41,0,0,F,Private,SLC
+19,Humanaties,B English and Communication,3.2,B,2.8,A,3.6,C,2,A,3.6,3.1,46,45,43,42,43,2.92,75,B,Private,SLC
